@@ -1,0 +1,1799 @@
+Time elapsed: 0 seconds	 Total time elapsed: 0 seconds
+batch i:1, episode_len:38
+Time elapsed: 56 seconds	 Total time elapsed: 56 seconds
+batch i:2, episode_len:29
+kl:0.00166,lr_multiplier:1.500,loss:4.928748607635498,entropy:4.157479286193848,explained_var_old:0.001,explained_var_new:0.341
+Time elapsed: 66 seconds	 Total time elapsed: 122 seconds
+batch i:3, episode_len:32
+kl:0.00285,lr_multiplier:2.250,loss:4.529848575592041,entropy:4.147461891174316,explained_var_old:0.277,explained_var_new:0.785
+Time elapsed: 70 seconds	 Total time elapsed: 192 seconds
+batch i:4, episode_len:32
+kl:0.01158,lr_multiplier:2.250,loss:4.381272315979004,entropy:4.138735771179199,explained_var_old:0.557,explained_var_new:0.809
+Time elapsed: 71 seconds	 Total time elapsed: 263 seconds
+batch i:5, episode_len:28
+kl:0.02914,lr_multiplier:2.250,loss:4.3117170333862305,entropy:4.103333473205566,explained_var_old:0.671,explained_var_new:0.830
+Time elapsed: 65 seconds	 Total time elapsed: 328 seconds
+batch i:6, episode_len:23
+kl:0.01296,lr_multiplier:2.250,loss:4.528465747833252,entropy:4.120083808898926,explained_var_old:0.631,explained_var_new:0.762
+Time elapsed: 57 seconds	 Total time elapsed: 385 seconds
+batch i:7, episode_len:34
+kl:0.03509,lr_multiplier:2.250,loss:4.302125930786133,entropy:4.03984260559082,explained_var_old:0.600,explained_var_new:0.789
+Time elapsed: 73 seconds	 Total time elapsed: 458 seconds
+batch i:8, episode_len:23
+kl:0.04015,lr_multiplier:1.500,loss:4.144983768463135,entropy:4.013970375061035,explained_var_old:0.773,explained_var_new:0.869
+Time elapsed: 57 seconds	 Total time elapsed: 516 seconds
+batch i:9, episode_len:23
+kl:0.03189,lr_multiplier:1.500,loss:4.096921920776367,entropy:3.916104316711426,explained_var_old:0.777,explained_var_new:0.873
+Time elapsed: 58 seconds	 Total time elapsed: 574 seconds
+batch i:10, episode_len:25
+kl:0.03302,lr_multiplier:1.500,loss:3.9799418449401855,entropy:3.8849916458129883,explained_var_old:0.868,explained_var_new:0.907
+Time elapsed: 62 seconds	 Total time elapsed: 636 seconds
+batch i:11, episode_len:33
+kl:0.04884,lr_multiplier:1.000,loss:3.921295166015625,entropy:3.760572671890259,explained_var_old:0.850,explained_var_new:0.887
+Time elapsed: 72 seconds	 Total time elapsed: 708 seconds
+batch i:12, episode_len:41
+kl:0.03579,lr_multiplier:1.000,loss:3.843852996826172,entropy:3.8139169216156006,explained_var_old:0.891,explained_var_new:0.940
+Time elapsed: 84 seconds	 Total time elapsed: 793 seconds
+batch i:13, episode_len:35
+kl:0.04438,lr_multiplier:0.667,loss:3.8357086181640625,entropy:3.735046863555908,explained_var_old:0.884,explained_var_new:0.908
+Time elapsed: 76 seconds	 Total time elapsed: 868 seconds
+batch i:14, episode_len:28
+kl:0.02663,lr_multiplier:0.667,loss:4.075246810913086,entropy:3.6726503372192383,explained_var_old:0.629,explained_var_new:0.651
+Time elapsed: 66 seconds	 Total time elapsed: 934 seconds
+batch i:15, episode_len:29
+kl:0.03256,lr_multiplier:0.667,loss:4.001712322235107,entropy:3.6510753631591797,explained_var_old:0.605,explained_var_new:0.639
+Time elapsed: 67 seconds	 Total time elapsed: 1000 seconds
+batch i:16, episode_len:28
+kl:0.02338,lr_multiplier:0.667,loss:4.167342662811279,entropy:3.6045775413513184,explained_var_old:0.440,explained_var_new:0.466
+Time elapsed: 64 seconds	 Total time elapsed: 1064 seconds
+batch i:17, episode_len:31
+kl:0.03275,lr_multiplier:0.667,loss:4.163522720336914,entropy:3.6084847450256348,explained_var_old:0.411,explained_var_new:0.429
+Time elapsed: 70 seconds	 Total time elapsed: 1134 seconds
+batch i:18, episode_len:33
+kl:0.02848,lr_multiplier:0.667,loss:4.0126214027404785,entropy:3.5661754608154297,explained_var_old:0.498,explained_var_new:0.555
+Time elapsed: 73 seconds	 Total time elapsed: 1208 seconds
+batch i:19, episode_len:30
+kl:0.04301,lr_multiplier:0.444,loss:4.190197467803955,entropy:3.5183699131011963,explained_var_old:0.324,explained_var_new:0.345
+Time elapsed: 69 seconds	 Total time elapsed: 1276 seconds
+batch i:20, episode_len:33
+kl:0.02759,lr_multiplier:0.444,loss:4.187362194061279,entropy:3.550196409225464,explained_var_old:0.350,explained_var_new:0.378
+Time elapsed: 72 seconds	 Total time elapsed: 1348 seconds
+batch i:21, episode_len:20
+kl:0.01890,lr_multiplier:0.444,loss:4.220232009887695,entropy:3.518409252166748,explained_var_old:0.302,explained_var_new:0.315
+Time elapsed: 52 seconds	 Total time elapsed: 1400 seconds
+batch i:22, episode_len:26
+kl:0.02173,lr_multiplier:0.444,loss:4.304819107055664,entropy:3.460827589035034,explained_var_old:0.190,explained_var_new:0.211
+Time elapsed: 63 seconds	 Total time elapsed: 1463 seconds
+batch i:23, episode_len:27
+kl:0.02343,lr_multiplier:0.444,loss:4.149226665496826,entropy:3.494875907897949,explained_var_old:0.290,explained_var_new:0.334
+Time elapsed: 64 seconds	 Total time elapsed: 1527 seconds
+batch i:24, episode_len:27
+kl:0.01424,lr_multiplier:0.444,loss:4.195262908935547,entropy:3.4580392837524414,explained_var_old:0.270,explained_var_new:0.309
+Time elapsed: 64 seconds	 Total time elapsed: 1592 seconds
+batch i:25, episode_len:28
+kl:0.01899,lr_multiplier:0.444,loss:4.216919422149658,entropy:3.407708168029785,explained_var_old:0.105,explained_var_new:0.200
+Time elapsed: 66 seconds	 Total time elapsed: 1658 seconds
+batch i:26, episode_len:15
+kl:0.02547,lr_multiplier:0.444,loss:4.183884143829346,entropy:3.4470715522766113,explained_var_old:0.180,explained_var_new:0.300
+Time elapsed: 47 seconds	 Total time elapsed: 1705 seconds
+batch i:27, episode_len:27
+kl:0.03231,lr_multiplier:0.444,loss:3.9969522953033447,entropy:3.416722297668457,explained_var_old:0.300,explained_var_new:0.392
+Time elapsed: 65 seconds	 Total time elapsed: 1769 seconds
+batch i:28, episode_len:31
+kl:0.03600,lr_multiplier:0.444,loss:4.046755790710449,entropy:3.3636655807495117,explained_var_old:0.271,explained_var_new:0.354
+Time elapsed: 71 seconds	 Total time elapsed: 1840 seconds
+batch i:29, episode_len:27
+kl:0.02230,lr_multiplier:0.444,loss:3.989603281021118,entropy:3.383117198944092,explained_var_old:0.347,explained_var_new:0.411
+Time elapsed: 64 seconds	 Total time elapsed: 1904 seconds
+batch i:30, episode_len:26
+kl:0.02892,lr_multiplier:0.444,loss:3.9810523986816406,entropy:3.3122005462646484,explained_var_old:0.264,explained_var_new:0.339
+Time elapsed: 63 seconds	 Total time elapsed: 1967 seconds
+batch i:31, episode_len:29
+kl:0.03670,lr_multiplier:0.444,loss:3.8376424312591553,entropy:3.30405330657959,explained_var_old:0.386,explained_var_new:0.459
+Time elapsed: 66 seconds	 Total time elapsed: 2033 seconds
+batch i:32, episode_len:18
+kl:0.03402,lr_multiplier:0.444,loss:3.9637415409088135,entropy:3.3912010192871094,explained_var_old:0.321,explained_var_new:0.392
+Time elapsed: 50 seconds	 Total time elapsed: 2083 seconds
+batch i:33, episode_len:13
+kl:0.02221,lr_multiplier:0.444,loss:3.9075064659118652,entropy:3.3350019454956055,explained_var_old:0.363,explained_var_new:0.430
+Time elapsed: 42 seconds	 Total time elapsed: 2126 seconds
+batch i:34, episode_len:27
+kl:0.02940,lr_multiplier:0.444,loss:3.8348095417022705,entropy:3.2772789001464844,explained_var_old:0.435,explained_var_new:0.509
+Time elapsed: 65 seconds	 Total time elapsed: 2191 seconds
+batch i:35, episode_len:19
+kl:0.03248,lr_multiplier:0.444,loss:3.9405932426452637,entropy:3.282001256942749,explained_var_old:0.285,explained_var_new:0.361
+Time elapsed: 51 seconds	 Total time elapsed: 2242 seconds
+batch i:36, episode_len:24
+kl:0.02306,lr_multiplier:0.444,loss:3.924452066421509,entropy:3.285623073577881,explained_var_old:0.332,explained_var_new:0.390
+Time elapsed: 59 seconds	 Total time elapsed: 2301 seconds
+batch i:37, episode_len:47
+kl:0.03245,lr_multiplier:0.444,loss:3.9417107105255127,entropy:3.2238309383392334,explained_var_old:0.262,explained_var_new:0.362
+Time elapsed: 93 seconds	 Total time elapsed: 2394 seconds
+batch i:38, episode_len:21
+kl:0.02678,lr_multiplier:0.444,loss:3.799987316131592,entropy:3.293318033218384,explained_var_old:0.439,explained_var_new:0.491
+Time elapsed: 54 seconds	 Total time elapsed: 2448 seconds
+batch i:39, episode_len:21
+kl:0.03056,lr_multiplier:0.444,loss:3.8519020080566406,entropy:3.2432026863098145,explained_var_old:0.277,explained_var_new:0.370
+Time elapsed: 56 seconds	 Total time elapsed: 2504 seconds
+batch i:40, episode_len:14
+kl:0.03147,lr_multiplier:0.444,loss:3.8276612758636475,entropy:3.1856143474578857,explained_var_old:0.326,explained_var_new:0.404
+Time elapsed: 43 seconds	 Total time elapsed: 2547 seconds
+batch i:41, episode_len:25
+kl:0.04002,lr_multiplier:0.296,loss:3.914367437362671,entropy:3.289477586746216,explained_var_old:0.308,explained_var_new:0.391
+Time elapsed: 60 seconds	 Total time elapsed: 2607 seconds
+batch i:42, episode_len:21
+kl:0.01440,lr_multiplier:0.296,loss:3.9357428550720215,entropy:3.300180196762085,explained_var_old:0.259,explained_var_new:0.340
+Time elapsed: 54 seconds	 Total time elapsed: 2661 seconds
+batch i:43, episode_len:20
+kl:0.02169,lr_multiplier:0.296,loss:3.947089910507202,entropy:3.258268117904663,explained_var_old:0.266,explained_var_new:0.335
+Time elapsed: 54 seconds	 Total time elapsed: 2715 seconds
+batch i:44, episode_len:21
+kl:0.01751,lr_multiplier:0.296,loss:3.8282158374786377,entropy:3.162801504135132,explained_var_old:0.331,explained_var_new:0.417
+Time elapsed: 54 seconds	 Total time elapsed: 2770 seconds
+batch i:45, episode_len:15
+kl:0.02847,lr_multiplier:0.296,loss:3.842151641845703,entropy:3.202942371368408,explained_var_old:0.373,explained_var_new:0.429
+Time elapsed: 46 seconds	 Total time elapsed: 2815 seconds
+batch i:46, episode_len:25
+kl:0.02036,lr_multiplier:0.296,loss:3.852801561355591,entropy:3.2819509506225586,explained_var_old:0.347,explained_var_new:0.424
+Time elapsed: 59 seconds	 Total time elapsed: 2875 seconds
+batch i:47, episode_len:34
+kl:0.02046,lr_multiplier:0.296,loss:3.851898431777954,entropy:3.2285337448120117,explained_var_old:0.380,explained_var_new:0.438
+Time elapsed: 73 seconds	 Total time elapsed: 2948 seconds
+batch i:48, episode_len:17
+kl:0.02431,lr_multiplier:0.296,loss:3.7638485431671143,entropy:3.1232924461364746,explained_var_old:0.372,explained_var_new:0.436
+Time elapsed: 49 seconds	 Total time elapsed: 2996 seconds
+batch i:49, episode_len:17
+kl:0.01986,lr_multiplier:0.296,loss:3.8050568103790283,entropy:3.228428363800049,explained_var_old:0.390,explained_var_new:0.471
+Time elapsed: 48 seconds	 Total time elapsed: 3045 seconds
+batch i:50, episode_len:21
+kl:0.01774,lr_multiplier:0.296,loss:3.7683169841766357,entropy:3.2434959411621094,explained_var_old:0.365,explained_var_new:0.462
+Time elapsed: 55 seconds	 Total time elapsed: 3100 seconds
+batch i:51, episode_len:13
+kl:0.01326,lr_multiplier:0.296,loss:3.794135332107544,entropy:3.1645212173461914,explained_var_old:0.376,explained_var_new:0.452
+Time elapsed: 42 seconds	 Total time elapsed: 3142 seconds
+batch i:52, episode_len:24
+kl:0.02507,lr_multiplier:0.296,loss:3.792847156524658,entropy:3.1395373344421387,explained_var_old:0.312,explained_var_new:0.400
+Time elapsed: 59 seconds	 Total time elapsed: 3201 seconds
+batch i:53, episode_len:21
+kl:0.01742,lr_multiplier:0.296,loss:3.730806589126587,entropy:3.1691150665283203,explained_var_old:0.367,explained_var_new:0.449
+Time elapsed: 54 seconds	 Total time elapsed: 3255 seconds
+batch i:54, episode_len:25
+kl:0.01990,lr_multiplier:0.296,loss:3.7063658237457275,entropy:3.1191043853759766,explained_var_old:0.386,explained_var_new:0.454
+Time elapsed: 61 seconds	 Total time elapsed: 3317 seconds
+batch i:55, episode_len:15
+kl:0.01610,lr_multiplier:0.296,loss:3.6462745666503906,entropy:3.068225860595703,explained_var_old:0.414,explained_var_new:0.497
+Time elapsed: 45 seconds	 Total time elapsed: 3361 seconds
+batch i:56, episode_len:27
+kl:0.03120,lr_multiplier:0.296,loss:3.702883243560791,entropy:3.0371336936950684,explained_var_old:0.344,explained_var_new:0.447
+Time elapsed: 64 seconds	 Total time elapsed: 3425 seconds
+batch i:57, episode_len:21
+kl:0.04625,lr_multiplier:0.198,loss:3.7324955463409424,entropy:3.1906371116638184,explained_var_old:0.398,explained_var_new:0.461
+Time elapsed: 54 seconds	 Total time elapsed: 3479 seconds
+batch i:58, episode_len:19
+kl:0.03070,lr_multiplier:0.198,loss:3.6760478019714355,entropy:3.0834057331085205,explained_var_old:0.406,explained_var_new:0.465
+Time elapsed: 52 seconds	 Total time elapsed: 3531 seconds
+batch i:59, episode_len:30
+kl:0.01287,lr_multiplier:0.198,loss:3.6607279777526855,entropy:3.078383445739746,explained_var_old:0.404,explained_var_new:0.470
+Time elapsed: 69 seconds	 Total time elapsed: 3600 seconds
+batch i:60, episode_len:24
+kl:0.00978,lr_multiplier:0.296,loss:3.635514259338379,entropy:3.078322410583496,explained_var_old:0.358,explained_var_new:0.417
+Time elapsed: 59 seconds	 Total time elapsed: 3659 seconds
+batch i:61, episode_len:29
+kl:0.03074,lr_multiplier:0.296,loss:3.642104148864746,entropy:3.0401525497436523,explained_var_old:0.343,explained_var_new:0.442
+Time elapsed: 68 seconds	 Total time elapsed: 3726 seconds
+batch i:62, episode_len:19
+kl:0.03657,lr_multiplier:0.296,loss:3.656916856765747,entropy:3.075122356414795,explained_var_old:0.464,explained_var_new:0.528
+Time elapsed: 52 seconds	 Total time elapsed: 3778 seconds
+batch i:63, episode_len:23
+kl:0.01772,lr_multiplier:0.296,loss:3.6636877059936523,entropy:3.0667788982391357,explained_var_old:0.361,explained_var_new:0.442
+Time elapsed: 58 seconds	 Total time elapsed: 3836 seconds
+batch i:64, episode_len:17
+kl:0.01743,lr_multiplier:0.296,loss:3.6384804248809814,entropy:3.058492422103882,explained_var_old:0.359,explained_var_new:0.440
+Time elapsed: 48 seconds	 Total time elapsed: 3884 seconds
+batch i:65, episode_len:28
+kl:0.02394,lr_multiplier:0.296,loss:3.5632989406585693,entropy:3.0441951751708984,explained_var_old:0.398,explained_var_new:0.492
+Time elapsed: 66 seconds	 Total time elapsed: 3950 seconds
+batch i:66, episode_len:25
+kl:0.03167,lr_multiplier:0.296,loss:3.6922225952148438,entropy:3.0661561489105225,explained_var_old:0.339,explained_var_new:0.423
+Time elapsed: 61 seconds	 Total time elapsed: 4011 seconds
+batch i:67, episode_len:20
+kl:0.02848,lr_multiplier:0.296,loss:3.6819493770599365,entropy:3.0183846950531006,explained_var_old:0.324,explained_var_new:0.418
+Time elapsed: 54 seconds	 Total time elapsed: 4064 seconds
+batch i:68, episode_len:29
+kl:0.02456,lr_multiplier:0.296,loss:3.7049639225006104,entropy:3.08414888381958,explained_var_old:0.329,explained_var_new:0.427
+Time elapsed: 66 seconds	 Total time elapsed: 4130 seconds
+batch i:69, episode_len:29
+kl:0.02557,lr_multiplier:0.296,loss:3.7185935974121094,entropy:3.1247403621673584,explained_var_old:0.388,explained_var_new:0.478
+Time elapsed: 65 seconds	 Total time elapsed: 4195 seconds
+batch i:70, episode_len:19
+kl:0.02228,lr_multiplier:0.296,loss:3.6142494678497314,entropy:3.110032081604004,explained_var_old:0.373,explained_var_new:0.464
+Time elapsed: 51 seconds	 Total time elapsed: 4246 seconds
+batch i:71, episode_len:17
+kl:0.01726,lr_multiplier:0.296,loss:3.690290689468384,entropy:3.1143040657043457,explained_var_old:0.401,explained_var_new:0.502
+Time elapsed: 46 seconds	 Total time elapsed: 4292 seconds
+batch i:72, episode_len:39
+kl:0.01591,lr_multiplier:0.296,loss:3.5994765758514404,entropy:3.066524028778076,explained_var_old:0.415,explained_var_new:0.495
+Time elapsed: 81 seconds	 Total time elapsed: 4373 seconds
+batch i:73, episode_len:17
+kl:0.01492,lr_multiplier:0.296,loss:3.673680543899536,entropy:3.1344144344329834,explained_var_old:0.427,explained_var_new:0.523
+Time elapsed: 48 seconds	 Total time elapsed: 4422 seconds
+batch i:74, episode_len:25
+kl:0.02536,lr_multiplier:0.296,loss:3.646571636199951,entropy:3.0734167098999023,explained_var_old:0.357,explained_var_new:0.461
+Time elapsed: 60 seconds	 Total time elapsed: 4481 seconds
+batch i:75, episode_len:24
+kl:0.01831,lr_multiplier:0.296,loss:3.5806102752685547,entropy:3.077024459838867,explained_var_old:0.447,explained_var_new:0.532
+Time elapsed: 59 seconds	 Total time elapsed: 4540 seconds
+batch i:76, episode_len:35
+kl:0.02200,lr_multiplier:0.296,loss:3.62589430809021,entropy:3.1305341720581055,explained_var_old:0.443,explained_var_new:0.527
+Time elapsed: 74 seconds	 Total time elapsed: 4614 seconds
+batch i:77, episode_len:29
+kl:0.01981,lr_multiplier:0.296,loss:3.539219856262207,entropy:3.0956506729125977,explained_var_old:0.503,explained_var_new:0.587
+Time elapsed: 66 seconds	 Total time elapsed: 4680 seconds
+batch i:78, episode_len:33
+kl:0.02430,lr_multiplier:0.296,loss:3.549403190612793,entropy:3.0412070751190186,explained_var_old:0.513,explained_var_new:0.563
+Time elapsed: 69 seconds	 Total time elapsed: 4749 seconds
+batch i:79, episode_len:30
+kl:0.02228,lr_multiplier:0.296,loss:3.6115498542785645,entropy:3.0262978076934814,explained_var_old:0.443,explained_var_new:0.504
+Time elapsed: 67 seconds	 Total time elapsed: 4816 seconds
+batch i:80, episode_len:40
+kl:0.03050,lr_multiplier:0.296,loss:3.672677755355835,entropy:3.091378688812256,explained_var_old:0.369,explained_var_new:0.458
+Time elapsed: 82 seconds	 Total time elapsed: 4898 seconds
+batch i:81, episode_len:33
+kl:0.01764,lr_multiplier:0.296,loss:3.668112277984619,entropy:3.1045005321502686,explained_var_old:0.392,explained_var_new:0.494
+Time elapsed: 71 seconds	 Total time elapsed: 4969 seconds
+batch i:82, episode_len:29
+kl:0.01919,lr_multiplier:0.296,loss:3.6500604152679443,entropy:3.104858875274658,explained_var_old:0.412,explained_var_new:0.474
+Time elapsed: 65 seconds	 Total time elapsed: 5035 seconds
+batch i:83, episode_len:19
+kl:0.02375,lr_multiplier:0.296,loss:3.659972667694092,entropy:3.0784144401550293,explained_var_old:0.412,explained_var_new:0.487
+Time elapsed: 51 seconds	 Total time elapsed: 5085 seconds
+batch i:84, episode_len:26
+kl:0.02192,lr_multiplier:0.296,loss:3.6344118118286133,entropy:3.065579414367676,explained_var_old:0.345,explained_var_new:0.435
+Time elapsed: 61 seconds	 Total time elapsed: 5146 seconds
+batch i:85, episode_len:29
+kl:0.02066,lr_multiplier:0.296,loss:3.727966785430908,entropy:3.098878860473633,explained_var_old:0.315,explained_var_new:0.417
+Time elapsed: 65 seconds	 Total time elapsed: 5211 seconds
+batch i:86, episode_len:19
+kl:0.02165,lr_multiplier:0.296,loss:3.5239768028259277,entropy:3.0209856033325195,explained_var_old:0.475,explained_var_new:0.533
+Time elapsed: 51 seconds	 Total time elapsed: 5262 seconds
+batch i:87, episode_len:29
+kl:0.02310,lr_multiplier:0.296,loss:3.6383395195007324,entropy:3.093930244445801,explained_var_old:0.427,explained_var_new:0.519
+Time elapsed: 65 seconds	 Total time elapsed: 5327 seconds
+batch i:88, episode_len:13
+kl:0.02593,lr_multiplier:0.296,loss:3.569192409515381,entropy:3.1004550457000732,explained_var_old:0.486,explained_var_new:0.554
+Time elapsed: 42 seconds	 Total time elapsed: 5369 seconds
+batch i:89, episode_len:35
+kl:0.01531,lr_multiplier:0.296,loss:3.6085948944091797,entropy:3.1010961532592773,explained_var_old:0.456,explained_var_new:0.531
+Time elapsed: 74 seconds	 Total time elapsed: 5444 seconds
+batch i:90, episode_len:31
+kl:0.02237,lr_multiplier:0.296,loss:3.5882608890533447,entropy:3.0782132148742676,explained_var_old:0.435,explained_var_new:0.496
+Time elapsed: 68 seconds	 Total time elapsed: 5512 seconds
+batch i:91, episode_len:27
+kl:0.01348,lr_multiplier:0.296,loss:3.6354317665100098,entropy:3.0721912384033203,explained_var_old:0.439,explained_var_new:0.497
+Time elapsed: 62 seconds	 Total time elapsed: 5574 seconds
+batch i:92, episode_len:19
+kl:0.01679,lr_multiplier:0.296,loss:3.467923402786255,entropy:2.9994349479675293,explained_var_old:0.510,explained_var_new:0.570
+Time elapsed: 51 seconds	 Total time elapsed: 5625 seconds
+batch i:93, episode_len:33
+kl:0.02099,lr_multiplier:0.296,loss:3.5756545066833496,entropy:3.06780743598938,explained_var_old:0.471,explained_var_new:0.561
+Time elapsed: 71 seconds	 Total time elapsed: 5696 seconds
+batch i:94, episode_len:43
+kl:0.02147,lr_multiplier:0.296,loss:3.4867382049560547,entropy:3.0283455848693848,explained_var_old:0.510,explained_var_new:0.613
+Time elapsed: 85 seconds	 Total time elapsed: 5781 seconds
+batch i:95, episode_len:25
+kl:0.02302,lr_multiplier:0.296,loss:3.5207366943359375,entropy:3.054469347000122,explained_var_old:0.499,explained_var_new:0.582
+Time elapsed: 60 seconds	 Total time elapsed: 5841 seconds
+batch i:96, episode_len:17
+kl:0.00975,lr_multiplier:0.444,loss:3.5501761436462402,entropy:3.0861732959747314,explained_var_old:0.501,explained_var_new:0.567
+Time elapsed: 48 seconds	 Total time elapsed: 5889 seconds
+batch i:97, episode_len:16
+kl:0.02410,lr_multiplier:0.444,loss:3.503727674484253,entropy:3.0501914024353027,explained_var_old:0.517,explained_var_new:0.604
+Time elapsed: 47 seconds	 Total time elapsed: 5936 seconds
+batch i:98, episode_len:15
+kl:0.02299,lr_multiplier:0.444,loss:3.45813250541687,entropy:3.031447172164917,explained_var_old:0.496,explained_var_new:0.594
+Time elapsed: 45 seconds	 Total time elapsed: 5981 seconds
+batch i:99, episode_len:19
+kl:0.02301,lr_multiplier:0.444,loss:3.5003795623779297,entropy:3.0540199279785156,explained_var_old:0.493,explained_var_new:0.600
+Time elapsed: 51 seconds	 Total time elapsed: 6031 seconds
+batch i:100, episode_len:25
+kl:0.02037,lr_multiplier:0.444,loss:3.536799430847168,entropy:3.041928291320801,explained_var_old:0.467,explained_var_new:0.566
+Time elapsed: 60 seconds	 Total time elapsed: 6092 seconds
+batch i:101, episode_len:23
+kl:0.02917,lr_multiplier:0.444,loss:3.49713134765625,entropy:3.0461153984069824,explained_var_old:0.490,explained_var_new:0.593
+Time elapsed: 57 seconds	 Total time elapsed: 6148 seconds
+batch i:102, episode_len:21
+kl:0.03681,lr_multiplier:0.444,loss:3.4224693775177,entropy:3.0611166954040527,explained_var_old:0.592,explained_var_new:0.682
+Time elapsed: 54 seconds	 Total time elapsed: 6202 seconds
+batch i:103, episode_len:29
+kl:0.01668,lr_multiplier:0.444,loss:3.4391210079193115,entropy:3.0474677085876465,explained_var_old:0.575,explained_var_new:0.652
+Time elapsed: 66 seconds	 Total time elapsed: 6268 seconds
+batch i:104, episode_len:26
+kl:0.02772,lr_multiplier:0.444,loss:3.351304054260254,entropy:2.9808578491210938,explained_var_old:0.574,explained_var_new:0.660
+Time elapsed: 61 seconds	 Total time elapsed: 6329 seconds
+batch i:105, episode_len:20
+kl:0.03760,lr_multiplier:0.444,loss:3.38706111907959,entropy:3.010284423828125,explained_var_old:0.574,explained_var_new:0.670
+Time elapsed: 54 seconds	 Total time elapsed: 6383 seconds
+batch i:106, episode_len:25
+kl:0.04132,lr_multiplier:0.296,loss:3.5449938774108887,entropy:3.062936782836914,explained_var_old:0.466,explained_var_new:0.581
+Time elapsed: 61 seconds	 Total time elapsed: 6444 seconds
+batch i:107, episode_len:25
+kl:0.02563,lr_multiplier:0.296,loss:3.507371187210083,entropy:3.0676467418670654,explained_var_old:0.536,explained_var_new:0.613
+Time elapsed: 60 seconds	 Total time elapsed: 6504 seconds
+batch i:108, episode_len:19
+kl:0.02599,lr_multiplier:0.296,loss:3.4117770195007324,entropy:3.055265426635742,explained_var_old:0.594,explained_var_new:0.645
+Time elapsed: 51 seconds	 Total time elapsed: 6555 seconds
+batch i:109, episode_len:19
+kl:0.02031,lr_multiplier:0.296,loss:3.489729881286621,entropy:3.0236260890960693,explained_var_old:0.564,explained_var_new:0.620
+Time elapsed: 50 seconds	 Total time elapsed: 6605 seconds
+batch i:110, episode_len:23
+kl:0.02378,lr_multiplier:0.296,loss:3.321235179901123,entropy:3.0259456634521484,explained_var_old:0.651,explained_var_new:0.721
+Time elapsed: 57 seconds	 Total time elapsed: 6662 seconds
+batch i:111, episode_len:27
+kl:0.01341,lr_multiplier:0.296,loss:3.3780860900878906,entropy:2.9963767528533936,explained_var_old:0.556,explained_var_new:0.637
+Time elapsed: 63 seconds	 Total time elapsed: 6725 seconds
+batch i:112, episode_len:18
+kl:0.01881,lr_multiplier:0.296,loss:3.4502758979797363,entropy:3.008953094482422,explained_var_old:0.534,explained_var_new:0.610
+Time elapsed: 49 seconds	 Total time elapsed: 6774 seconds
+batch i:113, episode_len:31
+kl:0.02997,lr_multiplier:0.296,loss:3.4389686584472656,entropy:3.0122008323669434,explained_var_old:0.535,explained_var_new:0.617
+Time elapsed: 69 seconds	 Total time elapsed: 6843 seconds
+batch i:114, episode_len:13
+kl:0.03312,lr_multiplier:0.296,loss:3.40138840675354,entropy:2.934291362762451,explained_var_old:0.502,explained_var_new:0.599
+Time elapsed: 42 seconds	 Total time elapsed: 6885 seconds
+batch i:115, episode_len:13
+kl:0.03047,lr_multiplier:0.296,loss:3.377305746078491,entropy:2.9662654399871826,explained_var_old:0.556,explained_var_new:0.633
+Time elapsed: 41 seconds	 Total time elapsed: 6926 seconds
+batch i:116, episode_len:45
+kl:0.02566,lr_multiplier:0.296,loss:3.3951261043548584,entropy:3.031630754470825,explained_var_old:0.603,explained_var_new:0.663
+Time elapsed: 89 seconds	 Total time elapsed: 7015 seconds
+batch i:117, episode_len:13
+kl:0.02037,lr_multiplier:0.296,loss:3.4037961959838867,entropy:3.0134987831115723,explained_var_old:0.625,explained_var_new:0.695
+Time elapsed: 41 seconds	 Total time elapsed: 7056 seconds
+batch i:118, episode_len:21
+kl:0.03921,lr_multiplier:0.296,loss:3.3819446563720703,entropy:2.9847917556762695,explained_var_old:0.573,explained_var_new:0.636
+Time elapsed: 54 seconds	 Total time elapsed: 7110 seconds
+batch i:119, episode_len:17
+kl:0.02823,lr_multiplier:0.296,loss:3.27191162109375,entropy:2.9586760997772217,explained_var_old:0.659,explained_var_new:0.723
+Time elapsed: 49 seconds	 Total time elapsed: 7159 seconds
+batch i:120, episode_len:31
+kl:0.02179,lr_multiplier:0.296,loss:3.3521692752838135,entropy:3.0085031986236572,explained_var_old:0.647,explained_var_new:0.699
+Time elapsed: 69 seconds	 Total time elapsed: 7228 seconds
+batch i:121, episode_len:25
+kl:0.02221,lr_multiplier:0.296,loss:3.330735683441162,entropy:2.965214490890503,explained_var_old:0.606,explained_var_new:0.685
+Time elapsed: 60 seconds	 Total time elapsed: 7288 seconds
+batch i:122, episode_len:23
+kl:0.02331,lr_multiplier:0.296,loss:3.30672550201416,entropy:2.943079948425293,explained_var_old:0.643,explained_var_new:0.689
+Time elapsed: 57 seconds	 Total time elapsed: 7344 seconds
+batch i:123, episode_len:18
+kl:0.02032,lr_multiplier:0.296,loss:3.3385822772979736,entropy:2.9481029510498047,explained_var_old:0.621,explained_var_new:0.673
+Time elapsed: 49 seconds	 Total time elapsed: 7394 seconds
+batch i:124, episode_len:24
+kl:0.01889,lr_multiplier:0.296,loss:3.4027035236358643,entropy:2.9955968856811523,explained_var_old:0.561,explained_var_new:0.634
+Time elapsed: 59 seconds	 Total time elapsed: 7453 seconds
+batch i:125, episode_len:19
+kl:0.01800,lr_multiplier:0.296,loss:3.338975667953491,entropy:2.9600794315338135,explained_var_old:0.583,explained_var_new:0.670
+Time elapsed: 51 seconds	 Total time elapsed: 7504 seconds
+batch i:126, episode_len:26
+kl:0.01867,lr_multiplier:0.296,loss:3.3827762603759766,entropy:2.962491512298584,explained_var_old:0.567,explained_var_new:0.633
+Time elapsed: 62 seconds	 Total time elapsed: 7565 seconds
+batch i:127, episode_len:15
+kl:0.01996,lr_multiplier:0.296,loss:3.3785009384155273,entropy:3.0162248611450195,explained_var_old:0.586,explained_var_new:0.648
+Time elapsed: 46 seconds	 Total time elapsed: 7611 seconds
+batch i:128, episode_len:15
+kl:0.01654,lr_multiplier:0.296,loss:3.3563754558563232,entropy:2.9292593002319336,explained_var_old:0.562,explained_var_new:0.620
+Time elapsed: 46 seconds	 Total time elapsed: 7657 seconds
+batch i:129, episode_len:17
+kl:0.01665,lr_multiplier:0.296,loss:3.4052200317382812,entropy:2.986231803894043,explained_var_old:0.549,explained_var_new:0.642
+Time elapsed: 48 seconds	 Total time elapsed: 7706 seconds
+batch i:130, episode_len:17
+kl:0.01659,lr_multiplier:0.296,loss:3.3398494720458984,entropy:2.992793560028076,explained_var_old:0.604,explained_var_new:0.683
+Time elapsed: 49 seconds	 Total time elapsed: 7755 seconds
+batch i:131, episode_len:21
+kl:0.02631,lr_multiplier:0.296,loss:3.356781005859375,entropy:2.9274868965148926,explained_var_old:0.556,explained_var_new:0.633
+Time elapsed: 54 seconds	 Total time elapsed: 7809 seconds
+batch i:132, episode_len:17
+kl:0.02433,lr_multiplier:0.296,loss:3.3308513164520264,entropy:2.8995440006256104,explained_var_old:0.594,explained_var_new:0.664
+Time elapsed: 48 seconds	 Total time elapsed: 7857 seconds
+batch i:133, episode_len:35
+kl:0.02223,lr_multiplier:0.296,loss:3.2702252864837646,entropy:2.951986789703369,explained_var_old:0.658,explained_var_new:0.710
+Time elapsed: 75 seconds	 Total time elapsed: 7932 seconds
+batch i:134, episode_len:25
+kl:0.02234,lr_multiplier:0.296,loss:3.2536611557006836,entropy:2.9474267959594727,explained_var_old:0.656,explained_var_new:0.718
+Time elapsed: 60 seconds	 Total time elapsed: 7992 seconds
+batch i:135, episode_len:23
+kl:0.02271,lr_multiplier:0.296,loss:3.2639403343200684,entropy:2.942995071411133,explained_var_old:0.665,explained_var_new:0.722
+Time elapsed: 58 seconds	 Total time elapsed: 8050 seconds
+batch i:136, episode_len:13
+kl:0.02765,lr_multiplier:0.296,loss:3.177800178527832,entropy:2.820845365524292,explained_var_old:0.646,explained_var_new:0.706
+Time elapsed: 44 seconds	 Total time elapsed: 8094 seconds
+batch i:137, episode_len:17
+kl:0.02037,lr_multiplier:0.296,loss:3.291761636734009,entropy:2.9186296463012695,explained_var_old:0.605,explained_var_new:0.668
+Time elapsed: 48 seconds	 Total time elapsed: 8143 seconds
+batch i:138, episode_len:26
+kl:0.02597,lr_multiplier:0.296,loss:3.245030641555786,entropy:2.9153900146484375,explained_var_old:0.661,explained_var_new:0.705
+Time elapsed: 60 seconds	 Total time elapsed: 8202 seconds
+batch i:139, episode_len:21
+kl:0.02395,lr_multiplier:0.296,loss:3.2375292778015137,entropy:2.8535728454589844,explained_var_old:0.629,explained_var_new:0.690
+Time elapsed: 53 seconds	 Total time elapsed: 8255 seconds
+batch i:140, episode_len:19
+kl:0.02347,lr_multiplier:0.296,loss:3.268113613128662,entropy:2.88997220993042,explained_var_old:0.601,explained_var_new:0.668
+Time elapsed: 51 seconds	 Total time elapsed: 8306 seconds
+batch i:141, episode_len:9
+kl:0.02885,lr_multiplier:0.296,loss:3.198531150817871,entropy:2.8963727951049805,explained_var_old:0.703,explained_var_new:0.765
+Time elapsed: 36 seconds	 Total time elapsed: 8342 seconds
+batch i:142, episode_len:21
+kl:0.02163,lr_multiplier:0.296,loss:3.2191336154937744,entropy:2.9165844917297363,explained_var_old:0.675,explained_var_new:0.714
+Time elapsed: 55 seconds	 Total time elapsed: 8397 seconds
+batch i:143, episode_len:17
+kl:0.01735,lr_multiplier:0.296,loss:3.2243001461029053,entropy:2.8999226093292236,explained_var_old:0.641,explained_var_new:0.716
+Time elapsed: 48 seconds	 Total time elapsed: 8445 seconds
+batch i:144, episode_len:19
+kl:0.02032,lr_multiplier:0.296,loss:3.204552173614502,entropy:2.8306567668914795,explained_var_old:0.638,explained_var_new:0.695
+Time elapsed: 50 seconds	 Total time elapsed: 8495 seconds
+batch i:145, episode_len:21
+kl:0.02428,lr_multiplier:0.296,loss:3.1900928020477295,entropy:2.8611598014831543,explained_var_old:0.658,explained_var_new:0.721
+Time elapsed: 54 seconds	 Total time elapsed: 8548 seconds
+batch i:146, episode_len:27
+kl:0.02029,lr_multiplier:0.296,loss:3.1707375049591064,entropy:2.883174419403076,explained_var_old:0.704,explained_var_new:0.774
+Time elapsed: 61 seconds	 Total time elapsed: 8609 seconds
+batch i:147, episode_len:21
+kl:0.01974,lr_multiplier:0.296,loss:3.2645857334136963,entropy:2.8948822021484375,explained_var_old:0.595,explained_var_new:0.673
+Time elapsed: 53 seconds	 Total time elapsed: 8662 seconds
+batch i:148, episode_len:15
+kl:0.02646,lr_multiplier:0.296,loss:3.2071094512939453,entropy:2.8963088989257812,explained_var_old:0.686,explained_var_new:0.739
+Time elapsed: 46 seconds	 Total time elapsed: 8708 seconds
+batch i:149, episode_len:23
+kl:0.02087,lr_multiplier:0.296,loss:3.2389020919799805,entropy:2.9587111473083496,explained_var_old:0.711,explained_var_new:0.770
+Time elapsed: 57 seconds	 Total time elapsed: 8765 seconds
+batch i:150, episode_len:23
+kl:0.01289,lr_multiplier:0.296,loss:3.235546350479126,entropy:2.9593710899353027,explained_var_old:0.733,explained_var_new:0.772
+Time elapsed: 58 seconds	 Total time elapsed: 8823 seconds
+batch i:151, episode_len:13
+kl:0.01742,lr_multiplier:0.296,loss:3.191582441329956,entropy:2.880136489868164,explained_var_old:0.674,explained_var_new:0.723
+Time elapsed: 42 seconds	 Total time elapsed: 8865 seconds
+batch i:152, episode_len:21
+kl:0.02399,lr_multiplier:0.296,loss:3.2275028228759766,entropy:2.8497934341430664,explained_var_old:0.634,explained_var_new:0.709
+Time elapsed: 54 seconds	 Total time elapsed: 8919 seconds
+batch i:153, episode_len:15
+kl:0.03192,lr_multiplier:0.296,loss:3.2138421535491943,entropy:2.884725570678711,explained_var_old:0.687,explained_var_new:0.738
+Time elapsed: 44 seconds	 Total time elapsed: 8963 seconds
+batch i:154, episode_len:21
+kl:0.02815,lr_multiplier:0.296,loss:3.135857582092285,entropy:2.8619513511657715,explained_var_old:0.743,explained_var_new:0.790
+Time elapsed: 55 seconds	 Total time elapsed: 9018 seconds
+batch i:155, episode_len:15
+kl:0.02431,lr_multiplier:0.296,loss:3.2066738605499268,entropy:2.9198079109191895,explained_var_old:0.709,explained_var_new:0.762
+Time elapsed: 45 seconds	 Total time elapsed: 9063 seconds
+batch i:156, episode_len:19
+kl:0.01721,lr_multiplier:0.296,loss:3.1337146759033203,entropy:2.8971803188323975,explained_var_old:0.734,explained_var_new:0.781
+Time elapsed: 51 seconds	 Total time elapsed: 9114 seconds
+batch i:157, episode_len:22
+kl:0.02403,lr_multiplier:0.296,loss:3.1634771823883057,entropy:2.8408145904541016,explained_var_old:0.687,explained_var_new:0.752
+Time elapsed: 54 seconds	 Total time elapsed: 9168 seconds
+batch i:158, episode_len:15
+kl:0.01662,lr_multiplier:0.296,loss:3.21915864944458,entropy:2.8506298065185547,explained_var_old:0.643,explained_var_new:0.693
+Time elapsed: 45 seconds	 Total time elapsed: 9212 seconds
+batch i:159, episode_len:23
+kl:0.02746,lr_multiplier:0.296,loss:3.181840181350708,entropy:2.8750686645507812,explained_var_old:0.687,explained_var_new:0.741
+Time elapsed: 57 seconds	 Total time elapsed: 9269 seconds
+batch i:160, episode_len:23
+kl:0.01479,lr_multiplier:0.296,loss:3.263357162475586,entropy:2.8657608032226562,explained_var_old:0.566,explained_var_new:0.639
+Time elapsed: 58 seconds	 Total time elapsed: 9327 seconds
+batch i:161, episode_len:39
+kl:0.01222,lr_multiplier:0.296,loss:3.165930986404419,entropy:2.835049629211426,explained_var_old:0.665,explained_var_new:0.732
+Time elapsed: 80 seconds	 Total time elapsed: 9408 seconds
+batch i:162, episode_len:35
+kl:0.01734,lr_multiplier:0.296,loss:3.2250874042510986,entropy:2.853243827819824,explained_var_old:0.633,explained_var_new:0.717
+Time elapsed: 74 seconds	 Total time elapsed: 9482 seconds
+batch i:163, episode_len:13
+kl:0.01952,lr_multiplier:0.296,loss:3.086573362350464,entropy:2.8098156452178955,explained_var_old:0.748,explained_var_new:0.784
+Time elapsed: 43 seconds	 Total time elapsed: 9525 seconds
+batch i:164, episode_len:22
+kl:0.01830,lr_multiplier:0.296,loss:3.2186951637268066,entropy:2.853611707687378,explained_var_old:0.639,explained_var_new:0.680
+Time elapsed: 55 seconds	 Total time elapsed: 9580 seconds
+batch i:165, episode_len:15
+kl:0.01737,lr_multiplier:0.296,loss:3.170173406600952,entropy:2.9044442176818848,explained_var_old:0.693,explained_var_new:0.742
+Time elapsed: 46 seconds	 Total time elapsed: 9626 seconds
+batch i:166, episode_len:18
+kl:0.01535,lr_multiplier:0.296,loss:3.196462392807007,entropy:2.8010377883911133,explained_var_old:0.628,explained_var_new:0.656
+Time elapsed: 49 seconds	 Total time elapsed: 9674 seconds
+batch i:167, episode_len:21
+kl:0.01388,lr_multiplier:0.296,loss:3.1709229946136475,entropy:2.817739725112915,explained_var_old:0.669,explained_var_new:0.704
+Time elapsed: 54 seconds	 Total time elapsed: 9729 seconds
+batch i:168, episode_len:33
+kl:0.01618,lr_multiplier:0.296,loss:3.229637861251831,entropy:2.9128057956695557,explained_var_old:0.674,explained_var_new:0.728
+Time elapsed: 72 seconds	 Total time elapsed: 9801 seconds
+batch i:169, episode_len:21
+kl:0.01510,lr_multiplier:0.296,loss:3.230971336364746,entropy:2.8859496116638184,explained_var_old:0.666,explained_var_new:0.717
+Time elapsed: 53 seconds	 Total time elapsed: 9855 seconds
+batch i:170, episode_len:17
+kl:0.02162,lr_multiplier:0.296,loss:3.1991777420043945,entropy:2.8757424354553223,explained_var_old:0.670,explained_var_new:0.728
+Time elapsed: 49 seconds	 Total time elapsed: 9903 seconds
+batch i:171, episode_len:25
+kl:0.01994,lr_multiplier:0.296,loss:3.1945114135742188,entropy:2.8844234943389893,explained_var_old:0.711,explained_var_new:0.755
+Time elapsed: 63 seconds	 Total time elapsed: 9966 seconds
+batch i:172, episode_len:19
+kl:0.02038,lr_multiplier:0.296,loss:3.2136642932891846,entropy:2.8859400749206543,explained_var_old:0.662,explained_var_new:0.722
+Time elapsed: 51 seconds	 Total time elapsed: 10017 seconds
+batch i:173, episode_len:21
+kl:0.02543,lr_multiplier:0.296,loss:3.1295688152313232,entropy:2.8317790031433105,explained_var_old:0.731,explained_var_new:0.754
+Time elapsed: 54 seconds	 Total time elapsed: 10071 seconds
+batch i:174, episode_len:13
+kl:0.02499,lr_multiplier:0.296,loss:3.1290669441223145,entropy:2.809635639190674,explained_var_old:0.658,explained_var_new:0.707
+Time elapsed: 42 seconds	 Total time elapsed: 10113 seconds
+batch i:175, episode_len:17
+kl:0.02967,lr_multiplier:0.296,loss:3.1305923461914062,entropy:2.8567585945129395,explained_var_old:0.696,explained_var_new:0.752
+Time elapsed: 47 seconds	 Total time elapsed: 10159 seconds
+batch i:176, episode_len:31
+kl:0.02828,lr_multiplier:0.296,loss:3.233079195022583,entropy:2.9165239334106445,explained_var_old:0.715,explained_var_new:0.749
+Time elapsed: 68 seconds	 Total time elapsed: 10227 seconds
+batch i:177, episode_len:21
+kl:0.01289,lr_multiplier:0.296,loss:3.14155912399292,entropy:2.8735218048095703,explained_var_old:0.719,explained_var_new:0.765
+Time elapsed: 55 seconds	 Total time elapsed: 10282 seconds
+batch i:178, episode_len:27
+kl:0.02703,lr_multiplier:0.296,loss:3.0768113136291504,entropy:2.7873830795288086,explained_var_old:0.739,explained_var_new:0.792
+Time elapsed: 63 seconds	 Total time elapsed: 10345 seconds
+batch i:179, episode_len:17
+kl:0.02385,lr_multiplier:0.296,loss:3.0340800285339355,entropy:2.764033317565918,explained_var_old:0.750,explained_var_new:0.769
+Time elapsed: 47 seconds	 Total time elapsed: 10392 seconds
+batch i:180, episode_len:21
+kl:0.01860,lr_multiplier:0.296,loss:3.0119009017944336,entropy:2.7577669620513916,explained_var_old:0.765,explained_var_new:0.797
+Time elapsed: 54 seconds	 Total time elapsed: 10447 seconds
+batch i:181, episode_len:11
+kl:0.01936,lr_multiplier:0.296,loss:3.099069356918335,entropy:2.795318126678467,explained_var_old:0.677,explained_var_new:0.736
+Time elapsed: 40 seconds	 Total time elapsed: 10486 seconds
+batch i:182, episode_len:33
+kl:0.02679,lr_multiplier:0.296,loss:3.1835317611694336,entropy:2.8311495780944824,explained_var_old:0.662,explained_var_new:0.713
+Time elapsed: 72 seconds	 Total time elapsed: 10558 seconds
+batch i:183, episode_len:23
+kl:0.01942,lr_multiplier:0.296,loss:3.0679731369018555,entropy:2.8357019424438477,explained_var_old:0.783,explained_var_new:0.830
+Time elapsed: 56 seconds	 Total time elapsed: 10614 seconds
+batch i:184, episode_len:15
+kl:0.01274,lr_multiplier:0.296,loss:3.0539610385894775,entropy:2.857830286026001,explained_var_old:0.799,explained_var_new:0.829
+Time elapsed: 46 seconds	 Total time elapsed: 10661 seconds
+batch i:185, episode_len:27
+kl:0.01985,lr_multiplier:0.296,loss:3.0135338306427,entropy:2.7747650146484375,explained_var_old:0.811,explained_var_new:0.849
+Time elapsed: 62 seconds	 Total time elapsed: 10723 seconds
+batch i:186, episode_len:28
+kl:0.01381,lr_multiplier:0.296,loss:3.03647780418396,entropy:2.776721239089966,explained_var_old:0.752,explained_var_new:0.787
+Time elapsed: 65 seconds	 Total time elapsed: 10788 seconds
+batch i:187, episode_len:23
+kl:0.01864,lr_multiplier:0.296,loss:3.144205331802368,entropy:2.803036689758301,explained_var_old:0.674,explained_var_new:0.718
+Time elapsed: 57 seconds	 Total time elapsed: 10845 seconds
+batch i:188, episode_len:26
+kl:0.01379,lr_multiplier:0.296,loss:3.121983766555786,entropy:2.784133195877075,explained_var_old:0.641,explained_var_new:0.707
+Time elapsed: 63 seconds	 Total time elapsed: 10909 seconds
+batch i:189, episode_len:18
+kl:0.02259,lr_multiplier:0.296,loss:3.117185354232788,entropy:2.8260531425476074,explained_var_old:0.702,explained_var_new:0.756
+Time elapsed: 51 seconds	 Total time elapsed: 10959 seconds
+batch i:190, episode_len:12
+kl:0.02382,lr_multiplier:0.296,loss:3.1011507511138916,entropy:2.8043570518493652,explained_var_old:0.705,explained_var_new:0.753
+Time elapsed: 40 seconds	 Total time elapsed: 11000 seconds
+batch i:191, episode_len:21
+kl:0.02578,lr_multiplier:0.296,loss:3.110179901123047,entropy:2.7730038166046143,explained_var_old:0.664,explained_var_new:0.720
+Time elapsed: 54 seconds	 Total time elapsed: 11054 seconds
+batch i:192, episode_len:19
+kl:0.02246,lr_multiplier:0.296,loss:3.0786733627319336,entropy:2.758638620376587,explained_var_old:0.657,explained_var_new:0.719
+Time elapsed: 52 seconds	 Total time elapsed: 11105 seconds
+batch i:193, episode_len:10
+kl:0.01585,lr_multiplier:0.296,loss:3.141930341720581,entropy:2.7686686515808105,explained_var_old:0.566,explained_var_new:0.679
+Time elapsed: 37 seconds	 Total time elapsed: 11143 seconds
+batch i:194, episode_len:21
+kl:0.02613,lr_multiplier:0.296,loss:3.184068441390991,entropy:2.7946648597717285,explained_var_old:0.618,explained_var_new:0.663
+Time elapsed: 55 seconds	 Total time elapsed: 11198 seconds
+batch i:195, episode_len:14
+kl:0.01571,lr_multiplier:0.296,loss:3.1530911922454834,entropy:2.8360323905944824,explained_var_old:0.636,explained_var_new:0.714
+Time elapsed: 44 seconds	 Total time elapsed: 11242 seconds
+batch i:196, episode_len:17
+kl:0.02192,lr_multiplier:0.296,loss:3.13922119140625,entropy:2.7700839042663574,explained_var_old:0.593,explained_var_new:0.698
+Time elapsed: 49 seconds	 Total time elapsed: 11291 seconds
+batch i:197, episode_len:17
+kl:0.01819,lr_multiplier:0.296,loss:3.281609535217285,entropy:2.8836498260498047,explained_var_old:0.573,explained_var_new:0.641
+Time elapsed: 48 seconds	 Total time elapsed: 11339 seconds
+batch i:198, episode_len:17
+kl:0.01892,lr_multiplier:0.296,loss:3.1909687519073486,entropy:2.7797508239746094,explained_var_old:0.587,explained_var_new:0.656
+Time elapsed: 48 seconds	 Total time elapsed: 11387 seconds
+batch i:199, episode_len:20
+kl:0.01562,lr_multiplier:0.296,loss:3.0762107372283936,entropy:2.78165602684021,explained_var_old:0.663,explained_var_new:0.750
+Time elapsed: 52 seconds	 Total time elapsed: 11439 seconds
+batch i:200, episode_len:19
+kl:0.02021,lr_multiplier:0.296,loss:3.1039011478424072,entropy:2.7686409950256348,explained_var_old:0.656,explained_var_new:0.725
+Time elapsed: 603 seconds	 Total time elapsed: 12041 seconds
+batch i:201, episode_len:16
+kl:0.01814,lr_multiplier:0.296,loss:3.1275837421417236,entropy:2.8344333171844482,explained_var_old:0.691,explained_var_new:0.754
+Time elapsed: 47 seconds	 Total time elapsed: 12088 seconds
+batch i:202, episode_len:11
+kl:0.01784,lr_multiplier:0.296,loss:3.1016581058502197,entropy:2.7975552082061768,explained_var_old:0.707,explained_var_new:0.756
+Time elapsed: 39 seconds	 Total time elapsed: 12127 seconds
+batch i:203, episode_len:39
+kl:0.02070,lr_multiplier:0.296,loss:3.1437511444091797,entropy:2.8085432052612305,explained_var_old:0.670,explained_var_new:0.733
+Time elapsed: 79 seconds	 Total time elapsed: 12206 seconds
+batch i:204, episode_len:11
+kl:0.01330,lr_multiplier:0.296,loss:3.1012308597564697,entropy:2.729905128479004,explained_var_old:0.631,explained_var_new:0.692
+Time elapsed: 38 seconds	 Total time elapsed: 12244 seconds
+batch i:205, episode_len:22
+kl:0.02879,lr_multiplier:0.296,loss:3.168367624282837,entropy:2.795649766921997,explained_var_old:0.550,explained_var_new:0.678
+Time elapsed: 55 seconds	 Total time elapsed: 12300 seconds
+batch i:206, episode_len:9
+kl:0.03395,lr_multiplier:0.296,loss:3.150573968887329,entropy:2.7667341232299805,explained_var_old:0.587,explained_var_new:0.667
+Time elapsed: 36 seconds	 Total time elapsed: 12336 seconds
+batch i:207, episode_len:11
+kl:0.02334,lr_multiplier:0.296,loss:3.081265449523926,entropy:2.784966468811035,explained_var_old:0.670,explained_var_new:0.757
+Time elapsed: 40 seconds	 Total time elapsed: 12375 seconds
+batch i:208, episode_len:15
+kl:0.03028,lr_multiplier:0.296,loss:3.037095308303833,entropy:2.6780080795288086,explained_var_old:0.651,explained_var_new:0.742
+Time elapsed: 45 seconds	 Total time elapsed: 12420 seconds
+batch i:209, episode_len:19
+kl:0.02927,lr_multiplier:0.296,loss:3.1094765663146973,entropy:2.7469563484191895,explained_var_old:0.668,explained_var_new:0.733
+Time elapsed: 48 seconds	 Total time elapsed: 12468 seconds
+batch i:210, episode_len:27
+kl:0.03336,lr_multiplier:0.296,loss:3.0807430744171143,entropy:2.7663497924804688,explained_var_old:0.639,explained_var_new:0.716
+Time elapsed: 63 seconds	 Total time elapsed: 12530 seconds
+batch i:211, episode_len:12
+kl:0.02363,lr_multiplier:0.296,loss:3.0424134731292725,entropy:2.6884098052978516,explained_var_old:0.640,explained_var_new:0.700
+Time elapsed: 40 seconds	 Total time elapsed: 12570 seconds
+batch i:212, episode_len:33
+kl:0.01853,lr_multiplier:0.296,loss:3.1145265102386475,entropy:2.808410167694092,explained_var_old:0.691,explained_var_new:0.774
+Time elapsed: 71 seconds	 Total time elapsed: 12641 seconds
+batch i:213, episode_len:21
+kl:0.02470,lr_multiplier:0.296,loss:3.0258073806762695,entropy:2.7150254249572754,explained_var_old:0.689,explained_var_new:0.753
+Time elapsed: 53 seconds	 Total time elapsed: 12694 seconds
+batch i:214, episode_len:13
+kl:0.01811,lr_multiplier:0.296,loss:3.065645456314087,entropy:2.76485538482666,explained_var_old:0.646,explained_var_new:0.752
+Time elapsed: 42 seconds	 Total time elapsed: 12737 seconds
+batch i:215, episode_len:13
+kl:0.01400,lr_multiplier:0.296,loss:3.005964756011963,entropy:2.72959303855896,explained_var_old:0.675,explained_var_new:0.755
+Time elapsed: 43 seconds	 Total time elapsed: 12780 seconds
+batch i:216, episode_len:19
+kl:0.01926,lr_multiplier:0.296,loss:3.011979818344116,entropy:2.729184865951538,explained_var_old:0.692,explained_var_new:0.769
+Time elapsed: 51 seconds	 Total time elapsed: 12831 seconds
+batch i:217, episode_len:18
+kl:0.03047,lr_multiplier:0.296,loss:2.966123104095459,entropy:2.6329526901245117,explained_var_old:0.675,explained_var_new:0.772
+Time elapsed: 51 seconds	 Total time elapsed: 12881 seconds
+batch i:218, episode_len:12
+kl:0.03484,lr_multiplier:0.296,loss:3.0051114559173584,entropy:2.643711566925049,explained_var_old:0.608,explained_var_new:0.694
+Time elapsed: 41 seconds	 Total time elapsed: 12922 seconds
+batch i:219, episode_len:35
+kl:0.02594,lr_multiplier:0.296,loss:3.0112502574920654,entropy:2.717317819595337,explained_var_old:0.657,explained_var_new:0.757
+Time elapsed: 75 seconds	 Total time elapsed: 12997 seconds
+batch i:220, episode_len:20
+kl:0.02642,lr_multiplier:0.296,loss:3.091830253601074,entropy:2.713434934616089,explained_var_old:0.610,explained_var_new:0.684
+Time elapsed: 52 seconds	 Total time elapsed: 13049 seconds
+batch i:221, episode_len:13
+kl:0.03248,lr_multiplier:0.296,loss:3.099088191986084,entropy:2.7642314434051514,explained_var_old:0.599,explained_var_new:0.682
+Time elapsed: 42 seconds	 Total time elapsed: 13091 seconds
+batch i:222, episode_len:23
+kl:0.04195,lr_multiplier:0.198,loss:3.0819437503814697,entropy:2.730445384979248,explained_var_old:0.596,explained_var_new:0.713
+Time elapsed: 56 seconds	 Total time elapsed: 13148 seconds
+batch i:223, episode_len:10
+kl:0.01858,lr_multiplier:0.198,loss:3.0634822845458984,entropy:2.704089879989624,explained_var_old:0.608,explained_var_new:0.656
+Time elapsed: 37 seconds	 Total time elapsed: 13185 seconds
+batch i:224, episode_len:20
+kl:0.02075,lr_multiplier:0.198,loss:3.0486342906951904,entropy:2.7191593647003174,explained_var_old:0.652,explained_var_new:0.725
+Time elapsed: 52 seconds	 Total time elapsed: 13238 seconds
+batch i:225, episode_len:14
+kl:0.01518,lr_multiplier:0.198,loss:3.0938923358917236,entropy:2.736187219619751,explained_var_old:0.585,explained_var_new:0.661
+Time elapsed: 43 seconds	 Total time elapsed: 13281 seconds
+batch i:226, episode_len:26
+kl:0.01500,lr_multiplier:0.198,loss:3.1009416580200195,entropy:2.705735921859741,explained_var_old:0.584,explained_var_new:0.669
+Time elapsed: 61 seconds	 Total time elapsed: 13342 seconds
+batch i:227, episode_len:19
+kl:0.01670,lr_multiplier:0.198,loss:3.0762851238250732,entropy:2.740474224090576,explained_var_old:0.608,explained_var_new:0.677
+Time elapsed: 52 seconds	 Total time elapsed: 13394 seconds
+batch i:228, episode_len:10
+kl:0.01526,lr_multiplier:0.198,loss:3.1198465824127197,entropy:2.7241976261138916,explained_var_old:0.553,explained_var_new:0.671
+Time elapsed: 38 seconds	 Total time elapsed: 13432 seconds
+batch i:229, episode_len:13
+kl:0.03815,lr_multiplier:0.198,loss:3.166147470474243,entropy:2.752668619155884,explained_var_old:0.550,explained_var_new:0.623
+Time elapsed: 42 seconds	 Total time elapsed: 13474 seconds
+batch i:230, episode_len:24
+kl:0.03108,lr_multiplier:0.198,loss:3.1684627532958984,entropy:2.6795105934143066,explained_var_old:0.525,explained_var_new:0.584
+Time elapsed: 59 seconds	 Total time elapsed: 13533 seconds
+batch i:231, episode_len:33
+kl:0.02258,lr_multiplier:0.198,loss:3.1251678466796875,entropy:2.7167835235595703,explained_var_old:0.541,explained_var_new:0.622
+Time elapsed: 73 seconds	 Total time elapsed: 13605 seconds
+batch i:232, episode_len:19
+kl:0.01489,lr_multiplier:0.198,loss:3.1176674365997314,entropy:2.7310638427734375,explained_var_old:0.564,explained_var_new:0.621
+Time elapsed: 52 seconds	 Total time elapsed: 13658 seconds
+batch i:233, episode_len:17
+kl:0.01502,lr_multiplier:0.198,loss:3.0862159729003906,entropy:2.6492156982421875,explained_var_old:0.561,explained_var_new:0.679
+Time elapsed: 47 seconds	 Total time elapsed: 13705 seconds
+batch i:234, episode_len:20
+kl:0.01993,lr_multiplier:0.198,loss:3.1844606399536133,entropy:2.7581658363342285,explained_var_old:0.514,explained_var_new:0.577
+Time elapsed: 54 seconds	 Total time elapsed: 13759 seconds
+batch i:235, episode_len:17
+kl:0.01600,lr_multiplier:0.198,loss:3.0765156745910645,entropy:2.656731605529785,explained_var_old:0.562,explained_var_new:0.625
+Time elapsed: 48 seconds	 Total time elapsed: 13806 seconds
+batch i:236, episode_len:14
+kl:0.01950,lr_multiplier:0.198,loss:3.119060516357422,entropy:2.703366994857788,explained_var_old:0.559,explained_var_new:0.647
+Time elapsed: 44 seconds	 Total time elapsed: 13851 seconds
+batch i:237, episode_len:17
+kl:0.02744,lr_multiplier:0.198,loss:3.108574151992798,entropy:2.6775918006896973,explained_var_old:0.536,explained_var_new:0.606
+Time elapsed: 49 seconds	 Total time elapsed: 13900 seconds
+batch i:238, episode_len:18
+kl:0.01584,lr_multiplier:0.198,loss:3.1782612800598145,entropy:2.677704095840454,explained_var_old:0.506,explained_var_new:0.599
+Time elapsed: 50 seconds	 Total time elapsed: 13950 seconds
+batch i:239, episode_len:15
+kl:0.02029,lr_multiplier:0.198,loss:3.192187786102295,entropy:2.7233710289001465,explained_var_old:0.459,explained_var_new:0.543
+Time elapsed: 48 seconds	 Total time elapsed: 13998 seconds
+batch i:240, episode_len:17
+kl:0.01815,lr_multiplier:0.198,loss:3.198964834213257,entropy:2.658000946044922,explained_var_old:0.458,explained_var_new:0.524
+Time elapsed: 49 seconds	 Total time elapsed: 14047 seconds
+batch i:241, episode_len:25
+kl:0.01208,lr_multiplier:0.198,loss:3.3036487102508545,entropy:2.69920015335083,explained_var_old:0.394,explained_var_new:0.485
+Time elapsed: 62 seconds	 Total time elapsed: 14109 seconds
+batch i:242, episode_len:25
+kl:0.01662,lr_multiplier:0.198,loss:3.1607275009155273,entropy:2.637129306793213,explained_var_old:0.407,explained_var_new:0.493
+Time elapsed: 60 seconds	 Total time elapsed: 14170 seconds
+batch i:243, episode_len:30
+kl:0.01980,lr_multiplier:0.198,loss:3.206662654876709,entropy:2.6217918395996094,explained_var_old:0.373,explained_var_new:0.464
+Time elapsed: 68 seconds	 Total time elapsed: 14238 seconds
+batch i:244, episode_len:23
+kl:0.02182,lr_multiplier:0.198,loss:3.3091840744018555,entropy:2.679262399673462,explained_var_old:0.374,explained_var_new:0.457
+Time elapsed: 61 seconds	 Total time elapsed: 14298 seconds
+batch i:245, episode_len:27
+kl:0.01737,lr_multiplier:0.198,loss:3.259936571121216,entropy:2.674323797225952,explained_var_old:0.349,explained_var_new:0.454
+Time elapsed: 66 seconds	 Total time elapsed: 14364 seconds
+batch i:246, episode_len:10
+kl:0.01938,lr_multiplier:0.198,loss:3.3445324897766113,entropy:2.6836986541748047,explained_var_old:0.297,explained_var_new:0.383
+Time elapsed: 39 seconds	 Total time elapsed: 14402 seconds
+batch i:247, episode_len:13
+kl:0.01356,lr_multiplier:0.198,loss:3.170895576477051,entropy:2.6145801544189453,explained_var_old:0.427,explained_var_new:0.518
+Time elapsed: 43 seconds	 Total time elapsed: 14445 seconds
+batch i:248, episode_len:11
+kl:0.01454,lr_multiplier:0.198,loss:3.180694103240967,entropy:2.602219343185425,explained_var_old:0.303,explained_var_new:0.456
+Time elapsed: 39 seconds	 Total time elapsed: 14484 seconds
+batch i:249, episode_len:17
+kl:0.01731,lr_multiplier:0.198,loss:3.247812271118164,entropy:2.6619253158569336,explained_var_old:0.359,explained_var_new:0.428
+Time elapsed: 49 seconds	 Total time elapsed: 14533 seconds
+batch i:250, episode_len:16
+kl:0.01266,lr_multiplier:0.198,loss:3.249302387237549,entropy:2.6406044960021973,explained_var_old:0.336,explained_var_new:0.424
+Time elapsed: 47 seconds	 Total time elapsed: 14580 seconds
+batch i:251, episode_len:22
+kl:0.01441,lr_multiplier:0.198,loss:3.171438694000244,entropy:2.585367202758789,explained_var_old:0.373,explained_var_new:0.454
+Time elapsed: 59 seconds	 Total time elapsed: 14639 seconds
+batch i:252, episode_len:19
+kl:0.01710,lr_multiplier:0.198,loss:3.307523012161255,entropy:2.6652398109436035,explained_var_old:0.320,explained_var_new:0.439
+Time elapsed: 53 seconds	 Total time elapsed: 14692 seconds
+batch i:253, episode_len:41
+kl:0.02640,lr_multiplier:0.198,loss:3.286219835281372,entropy:2.723627805709839,explained_var_old:0.355,explained_var_new:0.441
+Time elapsed: 84 seconds	 Total time elapsed: 14776 seconds
+batch i:254, episode_len:29
+kl:0.02729,lr_multiplier:0.198,loss:3.268284559249878,entropy:2.628612518310547,explained_var_old:0.312,explained_var_new:0.426
+Time elapsed: 67 seconds	 Total time elapsed: 14843 seconds
+batch i:255, episode_len:16
+kl:0.02469,lr_multiplier:0.198,loss:3.209507942199707,entropy:2.6480929851531982,explained_var_old:0.376,explained_var_new:0.471
+Time elapsed: 46 seconds	 Total time elapsed: 14888 seconds
+batch i:256, episode_len:31
+kl:0.02389,lr_multiplier:0.198,loss:3.158550977706909,entropy:2.595032215118408,explained_var_old:0.355,explained_var_new:0.463
+Time elapsed: 71 seconds	 Total time elapsed: 14959 seconds
+batch i:257, episode_len:19
+kl:0.02369,lr_multiplier:0.198,loss:3.2058470249176025,entropy:2.590456962585449,explained_var_old:0.363,explained_var_new:0.459
+Time elapsed: 51 seconds	 Total time elapsed: 15010 seconds
+batch i:258, episode_len:11
+kl:0.02057,lr_multiplier:0.198,loss:3.1098923683166504,entropy:2.6081979274749756,explained_var_old:0.427,explained_var_new:0.520
+Time elapsed: 40 seconds	 Total time elapsed: 15050 seconds
+batch i:259, episode_len:26
+kl:0.02074,lr_multiplier:0.198,loss:3.168156862258911,entropy:2.641721248626709,explained_var_old:0.414,explained_var_new:0.488
+Time elapsed: 60 seconds	 Total time elapsed: 15110 seconds
+batch i:260, episode_len:29
+kl:0.02383,lr_multiplier:0.198,loss:3.132321834564209,entropy:2.5831832885742188,explained_var_old:0.382,explained_var_new:0.457
+Time elapsed: 65 seconds	 Total time elapsed: 15175 seconds
+batch i:261, episode_len:17
+kl:0.01340,lr_multiplier:0.198,loss:3.2036783695220947,entropy:2.540907144546509,explained_var_old:0.369,explained_var_new:0.460
+Time elapsed: 48 seconds	 Total time elapsed: 15223 seconds
+batch i:262, episode_len:33
+kl:0.03763,lr_multiplier:0.198,loss:3.186793088912964,entropy:2.646747589111328,explained_var_old:0.416,explained_var_new:0.522
+Time elapsed: 70 seconds	 Total time elapsed: 15293 seconds
+batch i:263, episode_len:11
+kl:0.03433,lr_multiplier:0.198,loss:3.1148226261138916,entropy:2.6045966148376465,explained_var_old:0.459,explained_var_new:0.551
+Time elapsed: 39 seconds	 Total time elapsed: 15332 seconds
+batch i:264, episode_len:13
+kl:0.02665,lr_multiplier:0.198,loss:3.1736912727355957,entropy:2.594053030014038,explained_var_old:0.394,explained_var_new:0.470
+Time elapsed: 42 seconds	 Total time elapsed: 15375 seconds
+batch i:265, episode_len:22
+kl:0.01903,lr_multiplier:0.198,loss:3.1101322174072266,entropy:2.6399550437927246,explained_var_old:0.494,explained_var_new:0.576
+Time elapsed: 57 seconds	 Total time elapsed: 15432 seconds
+batch i:266, episode_len:20
+kl:0.02063,lr_multiplier:0.198,loss:3.158149242401123,entropy:2.557298421859741,explained_var_old:0.406,explained_var_new:0.487
+Time elapsed: 52 seconds	 Total time elapsed: 15485 seconds
+batch i:267, episode_len:17
+kl:0.01719,lr_multiplier:0.198,loss:3.1414854526519775,entropy:2.555922508239746,explained_var_old:0.345,explained_var_new:0.441
+Time elapsed: 50 seconds	 Total time elapsed: 15535 seconds
+batch i:268, episode_len:17
+kl:0.02143,lr_multiplier:0.198,loss:3.1713104248046875,entropy:2.6029067039489746,explained_var_old:0.356,explained_var_new:0.453
+Time elapsed: 50 seconds	 Total time elapsed: 15585 seconds
+batch i:269, episode_len:28
+kl:0.01643,lr_multiplier:0.198,loss:3.1327154636383057,entropy:2.6152820587158203,explained_var_old:0.463,explained_var_new:0.527
+Time elapsed: 65 seconds	 Total time elapsed: 15649 seconds
+batch i:270, episode_len:26
+kl:0.02430,lr_multiplier:0.198,loss:3.244035005569458,entropy:2.585233211517334,explained_var_old:0.329,explained_var_new:0.414
+Time elapsed: 63 seconds	 Total time elapsed: 15712 seconds
+batch i:271, episode_len:18
+kl:0.03109,lr_multiplier:0.198,loss:3.2726571559906006,entropy:2.562023162841797,explained_var_old:0.270,explained_var_new:0.369
+Time elapsed: 51 seconds	 Total time elapsed: 15763 seconds
+batch i:272, episode_len:25
+kl:0.03047,lr_multiplier:0.198,loss:3.1138548851013184,entropy:2.5889759063720703,explained_var_old:0.398,explained_var_new:0.479
+Time elapsed: 62 seconds	 Total time elapsed: 15825 seconds
+batch i:273, episode_len:13
+kl:0.01844,lr_multiplier:0.198,loss:3.244119167327881,entropy:2.631348133087158,explained_var_old:0.305,explained_var_new:0.422
+Time elapsed: 44 seconds	 Total time elapsed: 15869 seconds
+batch i:274, episode_len:23
+kl:0.02468,lr_multiplier:0.198,loss:3.1527936458587646,entropy:2.57838773727417,explained_var_old:0.383,explained_var_new:0.481
+Time elapsed: 57 seconds	 Total time elapsed: 15926 seconds
+batch i:275, episode_len:25
+kl:0.01682,lr_multiplier:0.198,loss:3.2491650581359863,entropy:2.6146106719970703,explained_var_old:0.357,explained_var_new:0.441
+Time elapsed: 62 seconds	 Total time elapsed: 15988 seconds
+batch i:276, episode_len:13
+kl:0.01902,lr_multiplier:0.198,loss:3.2053627967834473,entropy:2.5754613876342773,explained_var_old:0.334,explained_var_new:0.429
+Time elapsed: 42 seconds	 Total time elapsed: 16030 seconds
+batch i:277, episode_len:9
+kl:0.02260,lr_multiplier:0.198,loss:3.2048754692077637,entropy:2.5564422607421875,explained_var_old:0.315,explained_var_new:0.448
+Time elapsed: 36 seconds	 Total time elapsed: 16066 seconds
+batch i:278, episode_len:14
+kl:0.02737,lr_multiplier:0.198,loss:3.2307541370391846,entropy:2.6426923274993896,explained_var_old:0.363,explained_var_new:0.455
+Time elapsed: 44 seconds	 Total time elapsed: 16110 seconds
+batch i:279, episode_len:19
+kl:0.03072,lr_multiplier:0.198,loss:3.2057600021362305,entropy:2.5739541053771973,explained_var_old:0.296,explained_var_new:0.415
+Time elapsed: 53 seconds	 Total time elapsed: 16163 seconds
+batch i:280, episode_len:21
+kl:0.02157,lr_multiplier:0.198,loss:3.192486047744751,entropy:2.6071512699127197,explained_var_old:0.369,explained_var_new:0.468
+Time elapsed: 54 seconds	 Total time elapsed: 16217 seconds
+batch i:281, episode_len:26
+kl:0.01191,lr_multiplier:0.198,loss:3.1779491901397705,entropy:2.620227336883545,explained_var_old:0.359,explained_var_new:0.466
+Time elapsed: 62 seconds	 Total time elapsed: 16279 seconds
+batch i:282, episode_len:25
+kl:0.02174,lr_multiplier:0.198,loss:3.208773136138916,entropy:2.5921823978424072,explained_var_old:0.344,explained_var_new:0.467
+Time elapsed: 60 seconds	 Total time elapsed: 16339 seconds
+batch i:283, episode_len:24
+kl:0.03530,lr_multiplier:0.198,loss:3.2057549953460693,entropy:2.61934757232666,explained_var_old:0.332,explained_var_new:0.431
+Time elapsed: 59 seconds	 Total time elapsed: 16398 seconds
+batch i:284, episode_len:28
+kl:0.01593,lr_multiplier:0.198,loss:3.181776523590088,entropy:2.5662784576416016,explained_var_old:0.307,explained_var_new:0.441
+Time elapsed: 65 seconds	 Total time elapsed: 16463 seconds
+batch i:285, episode_len:22
+kl:0.01598,lr_multiplier:0.198,loss:3.240736722946167,entropy:2.5947654247283936,explained_var_old:0.327,explained_var_new:0.411
+Time elapsed: 56 seconds	 Total time elapsed: 16519 seconds
+batch i:286, episode_len:27
+kl:0.02357,lr_multiplier:0.198,loss:3.190814733505249,entropy:2.695711135864258,explained_var_old:0.393,explained_var_new:0.502
+Time elapsed: 65 seconds	 Total time elapsed: 16584 seconds
+batch i:287, episode_len:16
+kl:0.02132,lr_multiplier:0.198,loss:3.1528806686401367,entropy:2.5546107292175293,explained_var_old:0.406,explained_var_new:0.520
+Time elapsed: 47 seconds	 Total time elapsed: 16631 seconds
+batch i:288, episode_len:28
+kl:0.01885,lr_multiplier:0.198,loss:3.2213363647460938,entropy:2.598018169403076,explained_var_old:0.351,explained_var_new:0.450
+Time elapsed: 65 seconds	 Total time elapsed: 16696 seconds
+batch i:289, episode_len:13
+kl:0.01468,lr_multiplier:0.198,loss:3.1569559574127197,entropy:2.641209125518799,explained_var_old:0.372,explained_var_new:0.483
+Time elapsed: 42 seconds	 Total time elapsed: 16737 seconds
+batch i:290, episode_len:27
+kl:0.01823,lr_multiplier:0.198,loss:3.2344987392425537,entropy:2.6000280380249023,explained_var_old:0.329,explained_var_new:0.440
+Time elapsed: 65 seconds	 Total time elapsed: 16802 seconds
+batch i:291, episode_len:15
+kl:0.01884,lr_multiplier:0.198,loss:3.1350646018981934,entropy:2.583740234375,explained_var_old:0.387,explained_var_new:0.488
+Time elapsed: 46 seconds	 Total time elapsed: 16848 seconds
+batch i:292, episode_len:15
+kl:0.01431,lr_multiplier:0.198,loss:3.1512932777404785,entropy:2.608217716217041,explained_var_old:0.462,explained_var_new:0.542
+Time elapsed: 45 seconds	 Total time elapsed: 16893 seconds
+batch i:293, episode_len:13
+kl:0.01762,lr_multiplier:0.198,loss:3.1359221935272217,entropy:2.623016595840454,explained_var_old:0.441,explained_var_new:0.526
+Time elapsed: 42 seconds	 Total time elapsed: 16935 seconds
+batch i:294, episode_len:13
+kl:0.02273,lr_multiplier:0.198,loss:3.10294771194458,entropy:2.629948377609253,explained_var_old:0.434,explained_var_new:0.519
+Time elapsed: 42 seconds	 Total time elapsed: 16978 seconds
+batch i:295, episode_len:23
+kl:0.01813,lr_multiplier:0.198,loss:3.0955862998962402,entropy:2.5623550415039062,explained_var_old:0.424,explained_var_new:0.529
+Time elapsed: 58 seconds	 Total time elapsed: 17035 seconds
+batch i:296, episode_len:32
+kl:0.01576,lr_multiplier:0.198,loss:3.2133705615997314,entropy:2.6589345932006836,explained_var_old:0.401,explained_var_new:0.509
+Time elapsed: 75 seconds	 Total time elapsed: 17110 seconds
+batch i:297, episode_len:23
+kl:0.01944,lr_multiplier:0.198,loss:3.177971839904785,entropy:2.646483898162842,explained_var_old:0.417,explained_var_new:0.514
+Time elapsed: 59 seconds	 Total time elapsed: 17170 seconds
+batch i:298, episode_len:24
+kl:0.01120,lr_multiplier:0.198,loss:3.2927498817443848,entropy:2.645301342010498,explained_var_old:0.294,explained_var_new:0.377
+Time elapsed: 60 seconds	 Total time elapsed: 17229 seconds
+batch i:299, episode_len:17
+kl:0.01593,lr_multiplier:0.198,loss:3.2902023792266846,entropy:2.6697397232055664,explained_var_old:0.365,explained_var_new:0.436
+Time elapsed: 50 seconds	 Total time elapsed: 17279 seconds
+batch i:300, episode_len:31
+kl:0.01339,lr_multiplier:0.198,loss:3.2443466186523438,entropy:2.678790807723999,explained_var_old:0.384,explained_var_new:0.475
+Time elapsed: 71 seconds	 Total time elapsed: 17350 seconds
+batch i:301, episode_len:26
+kl:0.02083,lr_multiplier:0.198,loss:3.209050416946411,entropy:2.6356518268585205,explained_var_old:0.377,explained_var_new:0.459
+Time elapsed: 66 seconds	 Total time elapsed: 17415 seconds
+batch i:302, episode_len:17
+kl:0.01431,lr_multiplier:0.198,loss:3.244199514389038,entropy:2.6253581047058105,explained_var_old:0.376,explained_var_new:0.449
+Time elapsed: 49 seconds	 Total time elapsed: 17465 seconds
+batch i:303, episode_len:15
+kl:0.02372,lr_multiplier:0.198,loss:3.1806998252868652,entropy:2.618213653564453,explained_var_old:0.426,explained_var_new:0.501
+Time elapsed: 46 seconds	 Total time elapsed: 17510 seconds
+batch i:304, episode_len:15
+kl:0.01661,lr_multiplier:0.198,loss:3.2034003734588623,entropy:2.652010440826416,explained_var_old:0.431,explained_var_new:0.506
+Time elapsed: 47 seconds	 Total time elapsed: 17557 seconds
+batch i:305, episode_len:15
+kl:0.01905,lr_multiplier:0.198,loss:3.185626745223999,entropy:2.5831470489501953,explained_var_old:0.407,explained_var_new:0.484
+Time elapsed: 45 seconds	 Total time elapsed: 17602 seconds
+batch i:306, episode_len:29
+kl:0.02495,lr_multiplier:0.198,loss:3.246612310409546,entropy:2.629317283630371,explained_var_old:0.291,explained_var_new:0.428
+Time elapsed: 66 seconds	 Total time elapsed: 17668 seconds
+batch i:307, episode_len:30
+kl:0.02117,lr_multiplier:0.198,loss:3.3074944019317627,entropy:2.6953420639038086,explained_var_old:0.391,explained_var_new:0.458
+Time elapsed: 69 seconds	 Total time elapsed: 17737 seconds
+batch i:308, episode_len:23
+kl:0.02224,lr_multiplier:0.198,loss:3.2519354820251465,entropy:2.695996046066284,explained_var_old:0.420,explained_var_new:0.512
+Time elapsed: 56 seconds	 Total time elapsed: 17793 seconds
+batch i:309, episode_len:17
+kl:0.02738,lr_multiplier:0.198,loss:3.1799705028533936,entropy:2.689178228378296,explained_var_old:0.426,explained_var_new:0.517
+Time elapsed: 48 seconds	 Total time elapsed: 17841 seconds
+batch i:310, episode_len:30
+kl:0.01840,lr_multiplier:0.198,loss:3.2027926445007324,entropy:2.6654229164123535,explained_var_old:0.412,explained_var_new:0.494
+Time elapsed: 68 seconds	 Total time elapsed: 17909 seconds
+batch i:311, episode_len:9
+kl:0.02730,lr_multiplier:0.198,loss:3.1656501293182373,entropy:2.6220531463623047,explained_var_old:0.442,explained_var_new:0.534
+Time elapsed: 36 seconds	 Total time elapsed: 17944 seconds
+batch i:312, episode_len:33
+kl:0.03240,lr_multiplier:0.198,loss:3.2095932960510254,entropy:2.6724390983581543,explained_var_old:0.421,explained_var_new:0.522
+Time elapsed: 73 seconds	 Total time elapsed: 18018 seconds
+batch i:313, episode_len:15
+kl:0.01869,lr_multiplier:0.198,loss:3.2564644813537598,entropy:2.719630241394043,explained_var_old:0.424,explained_var_new:0.505
+Time elapsed: 46 seconds	 Total time elapsed: 18063 seconds
+batch i:314, episode_len:27
+kl:0.02425,lr_multiplier:0.198,loss:3.283846378326416,entropy:2.728332757949829,explained_var_old:0.378,explained_var_new:0.476
+Time elapsed: 63 seconds	 Total time elapsed: 18127 seconds
+batch i:315, episode_len:18
+kl:0.02958,lr_multiplier:0.198,loss:3.2354226112365723,entropy:2.6653196811676025,explained_var_old:0.382,explained_var_new:0.484
+Time elapsed: 49 seconds	 Total time elapsed: 18175 seconds
+batch i:316, episode_len:21
+kl:0.01767,lr_multiplier:0.198,loss:3.2251827716827393,entropy:2.6337578296661377,explained_var_old:0.370,explained_var_new:0.457
+Time elapsed: 55 seconds	 Total time elapsed: 18231 seconds
+batch i:317, episode_len:18
+kl:0.01616,lr_multiplier:0.198,loss:3.189666271209717,entropy:2.649883508682251,explained_var_old:0.413,explained_var_new:0.507
+Time elapsed: 50 seconds	 Total time elapsed: 18281 seconds
+batch i:318, episode_len:20
+kl:0.01122,lr_multiplier:0.198,loss:3.3337085247039795,entropy:2.684896230697632,explained_var_old:0.282,explained_var_new:0.372
+Time elapsed: 55 seconds	 Total time elapsed: 18336 seconds
+batch i:319, episode_len:20
+kl:0.01433,lr_multiplier:0.198,loss:3.265143632888794,entropy:2.7130043506622314,explained_var_old:0.390,explained_var_new:0.483
+Time elapsed: 53 seconds	 Total time elapsed: 18388 seconds
+batch i:320, episode_len:27
+kl:0.01576,lr_multiplier:0.198,loss:3.334829807281494,entropy:2.6580498218536377,explained_var_old:0.342,explained_var_new:0.416
+Time elapsed: 64 seconds	 Total time elapsed: 18453 seconds
+batch i:321, episode_len:23
+kl:0.01202,lr_multiplier:0.198,loss:3.334237575531006,entropy:2.6771607398986816,explained_var_old:0.342,explained_var_new:0.424
+Time elapsed: 56 seconds	 Total time elapsed: 18509 seconds
+batch i:322, episode_len:21
+kl:0.01546,lr_multiplier:0.198,loss:3.2444417476654053,entropy:2.6796655654907227,explained_var_old:0.382,explained_var_new:0.456
+Time elapsed: 55 seconds	 Total time elapsed: 18563 seconds
+batch i:323, episode_len:11
+kl:0.01711,lr_multiplier:0.198,loss:3.22943377494812,entropy:2.661010265350342,explained_var_old:0.381,explained_var_new:0.467
+Time elapsed: 39 seconds	 Total time elapsed: 18603 seconds
+batch i:324, episode_len:28
+kl:0.02124,lr_multiplier:0.198,loss:3.2770140171051025,entropy:2.7039594650268555,explained_var_old:0.395,explained_var_new:0.483
+Time elapsed: 65 seconds	 Total time elapsed: 18668 seconds
+batch i:325, episode_len:18
+kl:0.02366,lr_multiplier:0.198,loss:3.235835313796997,entropy:2.6817920207977295,explained_var_old:0.427,explained_var_new:0.500
+Time elapsed: 50 seconds	 Total time elapsed: 18718 seconds
+batch i:326, episode_len:15
+kl:0.01574,lr_multiplier:0.198,loss:3.2717721462249756,entropy:2.670598030090332,explained_var_old:0.367,explained_var_new:0.446
+Time elapsed: 46 seconds	 Total time elapsed: 18763 seconds
+batch i:327, episode_len:12
+kl:0.01630,lr_multiplier:0.198,loss:3.278442621231079,entropy:2.6821141242980957,explained_var_old:0.370,explained_var_new:0.463
+Time elapsed: 41 seconds	 Total time elapsed: 18804 seconds
+batch i:328, episode_len:30
+kl:0.01473,lr_multiplier:0.198,loss:3.264873743057251,entropy:2.664599895477295,explained_var_old:0.400,explained_var_new:0.477
+Time elapsed: 67 seconds	 Total time elapsed: 18871 seconds
+batch i:329, episode_len:20
+kl:0.03218,lr_multiplier:0.198,loss:3.1840407848358154,entropy:2.6358516216278076,explained_var_old:0.375,explained_var_new:0.471
+Time elapsed: 54 seconds	 Total time elapsed: 18925 seconds
+batch i:330, episode_len:21
+kl:0.02310,lr_multiplier:0.198,loss:3.329463481903076,entropy:2.6623971462249756,explained_var_old:0.338,explained_var_new:0.403
+Time elapsed: 57 seconds	 Total time elapsed: 18982 seconds
+batch i:331, episode_len:9
+kl:0.02171,lr_multiplier:0.198,loss:3.3312878608703613,entropy:2.673964262008667,explained_var_old:0.344,explained_var_new:0.421
+Time elapsed: 36 seconds	 Total time elapsed: 19018 seconds
+batch i:332, episode_len:17
+kl:0.01955,lr_multiplier:0.198,loss:3.2673141956329346,entropy:2.6987366676330566,explained_var_old:0.352,explained_var_new:0.448
+Time elapsed: 48 seconds	 Total time elapsed: 19066 seconds
+batch i:333, episode_len:21
+kl:0.01640,lr_multiplier:0.198,loss:3.1617486476898193,entropy:2.650084972381592,explained_var_old:0.406,explained_var_new:0.485
+Time elapsed: 55 seconds	 Total time elapsed: 19121 seconds
+batch i:334, episode_len:20
+kl:0.02874,lr_multiplier:0.198,loss:3.178659439086914,entropy:2.6648545265197754,explained_var_old:0.409,explained_var_new:0.514
+Time elapsed: 53 seconds	 Total time elapsed: 19175 seconds
+batch i:335, episode_len:23
+kl:0.01621,lr_multiplier:0.198,loss:3.2074079513549805,entropy:2.663767099380493,explained_var_old:0.407,explained_var_new:0.504
+Time elapsed: 59 seconds	 Total time elapsed: 19234 seconds
+batch i:336, episode_len:25
+kl:0.02605,lr_multiplier:0.198,loss:3.209928512573242,entropy:2.6464104652404785,explained_var_old:0.429,explained_var_new:0.533
+Time elapsed: 61 seconds	 Total time elapsed: 19295 seconds
+batch i:337, episode_len:14
+kl:0.01883,lr_multiplier:0.198,loss:3.156365156173706,entropy:2.591097354888916,explained_var_old:0.402,explained_var_new:0.487
+Time elapsed: 44 seconds	 Total time elapsed: 19339 seconds
+batch i:338, episode_len:28
+kl:0.02664,lr_multiplier:0.198,loss:3.218470573425293,entropy:2.609255790710449,explained_var_old:0.355,explained_var_new:0.452
+Time elapsed: 66 seconds	 Total time elapsed: 19405 seconds
+batch i:339, episode_len:23
+kl:0.01559,lr_multiplier:0.198,loss:3.1891863346099854,entropy:2.622847557067871,explained_var_old:0.384,explained_var_new:0.484
+Time elapsed: 57 seconds	 Total time elapsed: 19462 seconds
+batch i:340, episode_len:22
+kl:0.02203,lr_multiplier:0.198,loss:3.241339921951294,entropy:2.5960328578948975,explained_var_old:0.316,explained_var_new:0.408
+Time elapsed: 56 seconds	 Total time elapsed: 19517 seconds
+batch i:341, episode_len:31
+kl:0.01541,lr_multiplier:0.198,loss:3.2971131801605225,entropy:2.67161226272583,explained_var_old:0.328,explained_var_new:0.422
+Time elapsed: 71 seconds	 Total time elapsed: 19588 seconds
+batch i:342, episode_len:13
+kl:0.02214,lr_multiplier:0.198,loss:3.2200756072998047,entropy:2.6557979583740234,explained_var_old:0.377,explained_var_new:0.479
+Time elapsed: 43 seconds	 Total time elapsed: 19631 seconds
+batch i:343, episode_len:18
+kl:0.01165,lr_multiplier:0.198,loss:3.2749524116516113,entropy:2.6522812843322754,explained_var_old:0.307,explained_var_new:0.407
+Time elapsed: 50 seconds	 Total time elapsed: 19681 seconds
+batch i:344, episode_len:19
+kl:0.02417,lr_multiplier:0.198,loss:3.2384109497070312,entropy:2.694592237472534,explained_var_old:0.421,explained_var_new:0.496
+Time elapsed: 51 seconds	 Total time elapsed: 19733 seconds
+batch i:345, episode_len:20
+kl:0.02548,lr_multiplier:0.198,loss:3.301060914993286,entropy:2.6407217979431152,explained_var_old:0.334,explained_var_new:0.429
+Time elapsed: 53 seconds	 Total time elapsed: 19786 seconds
+batch i:346, episode_len:19
+kl:0.02493,lr_multiplier:0.198,loss:3.2883739471435547,entropy:2.70150089263916,explained_var_old:0.378,explained_var_new:0.458
+Time elapsed: 52 seconds	 Total time elapsed: 19838 seconds
+batch i:347, episode_len:16
+kl:0.02132,lr_multiplier:0.198,loss:3.2390873432159424,entropy:2.697908878326416,explained_var_old:0.418,explained_var_new:0.492
+Time elapsed: 47 seconds	 Total time elapsed: 19885 seconds
+batch i:348, episode_len:34
+kl:0.02978,lr_multiplier:0.198,loss:3.267993450164795,entropy:2.602874755859375,explained_var_old:0.353,explained_var_new:0.436
+Time elapsed: 74 seconds	 Total time elapsed: 19960 seconds
+batch i:349, episode_len:13
+kl:0.02751,lr_multiplier:0.198,loss:3.214509963989258,entropy:2.6259937286376953,explained_var_old:0.395,explained_var_new:0.489
+Time elapsed: 42 seconds	 Total time elapsed: 20001 seconds
+batch i:350, episode_len:17
+kl:0.01849,lr_multiplier:0.198,loss:3.175837993621826,entropy:2.671839714050293,explained_var_old:0.407,explained_var_new:0.522
+Time elapsed: 49 seconds	 Total time elapsed: 20050 seconds
+batch i:351, episode_len:24
+kl:0.01681,lr_multiplier:0.198,loss:3.2729640007019043,entropy:2.668738603591919,explained_var_old:0.346,explained_var_new:0.438
+Time elapsed: 60 seconds	 Total time elapsed: 20110 seconds
+batch i:352, episode_len:20
+kl:0.02687,lr_multiplier:0.198,loss:3.2623379230499268,entropy:2.6561264991760254,explained_var_old:0.359,explained_var_new:0.440
+Time elapsed: 54 seconds	 Total time elapsed: 20164 seconds
+batch i:353, episode_len:15
+kl:0.01597,lr_multiplier:0.198,loss:3.3073713779449463,entropy:2.6626181602478027,explained_var_old:0.285,explained_var_new:0.383
+Time elapsed: 47 seconds	 Total time elapsed: 20211 seconds
+batch i:354, episode_len:26
+kl:0.02444,lr_multiplier:0.198,loss:3.370246410369873,entropy:2.6017751693725586,explained_var_old:0.225,explained_var_new:0.324
+Time elapsed: 63 seconds	 Total time elapsed: 20274 seconds
+batch i:355, episode_len:34
+kl:0.02540,lr_multiplier:0.198,loss:3.299139976501465,entropy:2.673219680786133,explained_var_old:0.318,explained_var_new:0.416
+Time elapsed: 73 seconds	 Total time elapsed: 20347 seconds
+batch i:356, episode_len:30
+kl:0.02923,lr_multiplier:0.198,loss:3.212792158126831,entropy:2.6225647926330566,explained_var_old:0.352,explained_var_new:0.453
+Time elapsed: 68 seconds	 Total time elapsed: 20415 seconds
+batch i:357, episode_len:28
+kl:0.02757,lr_multiplier:0.198,loss:3.1793575286865234,entropy:2.6376795768737793,explained_var_old:0.438,explained_var_new:0.506
+Time elapsed: 67 seconds	 Total time elapsed: 20482 seconds
+batch i:358, episode_len:19
+kl:0.02687,lr_multiplier:0.198,loss:3.120598554611206,entropy:2.542947769165039,explained_var_old:0.449,explained_var_new:0.520
+Time elapsed: 53 seconds	 Total time elapsed: 20535 seconds
+batch i:359, episode_len:9
+kl:0.03062,lr_multiplier:0.198,loss:3.186277389526367,entropy:2.6317505836486816,explained_var_old:0.418,explained_var_new:0.497
+Time elapsed: 36 seconds	 Total time elapsed: 20571 seconds
+batch i:360, episode_len:19
+kl:0.01726,lr_multiplier:0.198,loss:3.243603467941284,entropy:2.62530517578125,explained_var_old:0.350,explained_var_new:0.450
+Time elapsed: 52 seconds	 Total time elapsed: 20623 seconds
+batch i:361, episode_len:18
+kl:0.02027,lr_multiplier:0.198,loss:3.2091619968414307,entropy:2.6082592010498047,explained_var_old:0.347,explained_var_new:0.452
+Time elapsed: 50 seconds	 Total time elapsed: 20673 seconds
+batch i:362, episode_len:31
+kl:0.01768,lr_multiplier:0.198,loss:3.1610052585601807,entropy:2.5972437858581543,explained_var_old:0.377,explained_var_new:0.471
+Time elapsed: 70 seconds	 Total time elapsed: 20743 seconds
+batch i:363, episode_len:20
+kl:0.01736,lr_multiplier:0.198,loss:3.289466142654419,entropy:2.664921760559082,explained_var_old:0.261,explained_var_new:0.371
+Time elapsed: 54 seconds	 Total time elapsed: 20797 seconds
+batch i:364, episode_len:15
+kl:0.02680,lr_multiplier:0.198,loss:3.2197487354278564,entropy:2.644956588745117,explained_var_old:0.375,explained_var_new:0.471
+Time elapsed: 46 seconds	 Total time elapsed: 20843 seconds
+batch i:365, episode_len:12
+kl:0.02383,lr_multiplier:0.198,loss:3.1599385738372803,entropy:2.6075634956359863,explained_var_old:0.383,explained_var_new:0.477
+Time elapsed: 42 seconds	 Total time elapsed: 20885 seconds
+batch i:366, episode_len:21
+kl:0.01816,lr_multiplier:0.198,loss:3.223487615585327,entropy:2.6475377082824707,explained_var_old:0.350,explained_var_new:0.455
+Time elapsed: 56 seconds	 Total time elapsed: 20941 seconds
+batch i:367, episode_len:27
+kl:0.02211,lr_multiplier:0.198,loss:3.2212398052215576,entropy:2.6315789222717285,explained_var_old:0.400,explained_var_new:0.479
+Time elapsed: 65 seconds	 Total time elapsed: 21006 seconds
+batch i:368, episode_len:24
+kl:0.01407,lr_multiplier:0.198,loss:3.262603759765625,entropy:2.605400323867798,explained_var_old:0.308,explained_var_new:0.422
+Time elapsed: 60 seconds	 Total time elapsed: 21066 seconds
+batch i:369, episode_len:18
+kl:0.01942,lr_multiplier:0.198,loss:3.214409828186035,entropy:2.60483980178833,explained_var_old:0.335,explained_var_new:0.430
+Time elapsed: 50 seconds	 Total time elapsed: 21116 seconds
+batch i:370, episode_len:19
+kl:0.01789,lr_multiplier:0.198,loss:3.2266664505004883,entropy:2.6536624431610107,explained_var_old:0.385,explained_var_new:0.502
+Time elapsed: 51 seconds	 Total time elapsed: 21167 seconds
+batch i:371, episode_len:16
+kl:0.02923,lr_multiplier:0.198,loss:3.2219324111938477,entropy:2.5643818378448486,explained_var_old:0.324,explained_var_new:0.439
+Time elapsed: 47 seconds	 Total time elapsed: 21214 seconds
+batch i:372, episode_len:13
+kl:0.01743,lr_multiplier:0.198,loss:3.1648194789886475,entropy:2.5664732456207275,explained_var_old:0.354,explained_var_new:0.456
+Time elapsed: 41 seconds	 Total time elapsed: 21255 seconds
+batch i:373, episode_len:18
+kl:0.01338,lr_multiplier:0.198,loss:3.2293777465820312,entropy:2.6185171604156494,explained_var_old:0.296,explained_var_new:0.435
+Time elapsed: 50 seconds	 Total time elapsed: 21306 seconds
+batch i:374, episode_len:29
+kl:0.02196,lr_multiplier:0.198,loss:3.0930356979370117,entropy:2.583820343017578,explained_var_old:0.405,explained_var_new:0.507
+Time elapsed: 68 seconds	 Total time elapsed: 21374 seconds
+batch i:375, episode_len:23
+kl:0.01524,lr_multiplier:0.198,loss:3.2186362743377686,entropy:2.5903215408325195,explained_var_old:0.373,explained_var_new:0.477
+Time elapsed: 59 seconds	 Total time elapsed: 21432 seconds
+batch i:376, episode_len:26
+kl:0.02125,lr_multiplier:0.198,loss:3.2440073490142822,entropy:2.613619804382324,explained_var_old:0.299,explained_var_new:0.395
+Time elapsed: 63 seconds	 Total time elapsed: 21495 seconds
+batch i:377, episode_len:27
+kl:0.01712,lr_multiplier:0.198,loss:3.2502875328063965,entropy:2.5975165367126465,explained_var_old:0.308,explained_var_new:0.419
+Time elapsed: 62 seconds	 Total time elapsed: 21558 seconds
+batch i:378, episode_len:25
+kl:0.02029,lr_multiplier:0.198,loss:3.1791841983795166,entropy:2.594381332397461,explained_var_old:0.373,explained_var_new:0.491
+Time elapsed: 61 seconds	 Total time elapsed: 21618 seconds
+batch i:379, episode_len:29
+kl:0.01826,lr_multiplier:0.198,loss:3.228158950805664,entropy:2.5805482864379883,explained_var_old:0.310,explained_var_new:0.444
+Time elapsed: 69 seconds	 Total time elapsed: 21688 seconds
+batch i:380, episode_len:28
+kl:0.01656,lr_multiplier:0.198,loss:3.2157480716705322,entropy:2.630854368209839,explained_var_old:0.349,explained_var_new:0.460
+Time elapsed: 66 seconds	 Total time elapsed: 21753 seconds
+batch i:381, episode_len:15
+kl:0.01581,lr_multiplier:0.198,loss:3.2044925689697266,entropy:2.6640994548797607,explained_var_old:0.371,explained_var_new:0.464
+Time elapsed: 46 seconds	 Total time elapsed: 21799 seconds
+batch i:382, episode_len:21
+kl:0.01991,lr_multiplier:0.198,loss:3.1719260215759277,entropy:2.63785457611084,explained_var_old:0.403,explained_var_new:0.513
+Time elapsed: 55 seconds	 Total time elapsed: 21855 seconds
+batch i:383, episode_len:12
+kl:0.01824,lr_multiplier:0.198,loss:3.2416160106658936,entropy:2.593510627746582,explained_var_old:0.344,explained_var_new:0.452
+Time elapsed: 42 seconds	 Total time elapsed: 21896 seconds
+batch i:384, episode_len:10
+kl:0.01483,lr_multiplier:0.198,loss:3.216331720352173,entropy:2.589454174041748,explained_var_old:0.323,explained_var_new:0.426
+Time elapsed: 39 seconds	 Total time elapsed: 21935 seconds
+batch i:385, episode_len:20
+kl:0.01678,lr_multiplier:0.198,loss:3.1837704181671143,entropy:2.6349799633026123,explained_var_old:0.412,explained_var_new:0.498
+Time elapsed: 54 seconds	 Total time elapsed: 21989 seconds
+batch i:386, episode_len:13
+kl:0.02325,lr_multiplier:0.198,loss:3.1118674278259277,entropy:2.555879592895508,explained_var_old:0.424,explained_var_new:0.529
+Time elapsed: 43 seconds	 Total time elapsed: 22032 seconds
+batch i:387, episode_len:15
+kl:0.01390,lr_multiplier:0.198,loss:3.210139274597168,entropy:2.5875797271728516,explained_var_old:0.363,explained_var_new:0.464
+Time elapsed: 47 seconds	 Total time elapsed: 22079 seconds
+batch i:388, episode_len:19
+kl:0.02168,lr_multiplier:0.198,loss:3.1322059631347656,entropy:2.580789566040039,explained_var_old:0.397,explained_var_new:0.515
+Time elapsed: 53 seconds	 Total time elapsed: 22133 seconds
+batch i:389, episode_len:18
+kl:0.01319,lr_multiplier:0.198,loss:3.180748462677002,entropy:2.5854599475860596,explained_var_old:0.373,explained_var_new:0.475
+Time elapsed: 51 seconds	 Total time elapsed: 22184 seconds
+batch i:390, episode_len:16
+kl:0.02477,lr_multiplier:0.198,loss:3.2302744388580322,entropy:2.605009078979492,explained_var_old:0.351,explained_var_new:0.454
+Time elapsed: 48 seconds	 Total time elapsed: 22232 seconds
+batch i:391, episode_len:28
+kl:0.02081,lr_multiplier:0.198,loss:3.153188705444336,entropy:2.584200859069824,explained_var_old:0.341,explained_var_new:0.469
+Time elapsed: 67 seconds	 Total time elapsed: 22299 seconds
+batch i:392, episode_len:21
+kl:0.02094,lr_multiplier:0.198,loss:3.1936957836151123,entropy:2.5694124698638916,explained_var_old:0.364,explained_var_new:0.492
+Time elapsed: 56 seconds	 Total time elapsed: 22355 seconds
+batch i:393, episode_len:41
+kl:0.04066,lr_multiplier:0.132,loss:3.1931324005126953,entropy:2.620593786239624,explained_var_old:0.321,explained_var_new:0.487
+Time elapsed: 87 seconds	 Total time elapsed: 22441 seconds
+batch i:394, episode_len:15
+kl:0.03190,lr_multiplier:0.132,loss:3.3893747329711914,entropy:2.587294340133667,explained_var_old:0.230,explained_var_new:0.332
+Time elapsed: 45 seconds	 Total time elapsed: 22487 seconds
+batch i:395, episode_len:11
+kl:0.02060,lr_multiplier:0.132,loss:3.2790753841400146,entropy:2.6124768257141113,explained_var_old:0.337,explained_var_new:0.407
+Time elapsed: 40 seconds	 Total time elapsed: 22527 seconds
+batch i:396, episode_len:21
+kl:0.01146,lr_multiplier:0.132,loss:3.298856496810913,entropy:2.667628526687622,explained_var_old:0.304,explained_var_new:0.405
+Time elapsed: 55 seconds	 Total time elapsed: 22582 seconds
+batch i:397, episode_len:16
+kl:0.01586,lr_multiplier:0.132,loss:3.2296807765960693,entropy:2.625784397125244,explained_var_old:0.325,explained_var_new:0.429
+Time elapsed: 48 seconds	 Total time elapsed: 22629 seconds
+batch i:398, episode_len:18
+kl:0.01223,lr_multiplier:0.132,loss:3.227024555206299,entropy:2.560232639312744,explained_var_old:0.333,explained_var_new:0.417
+Time elapsed: 51 seconds	 Total time elapsed: 22681 seconds
+batch i:399, episode_len:21
+kl:0.01900,lr_multiplier:0.132,loss:3.274855136871338,entropy:2.627006769180298,explained_var_old:0.332,explained_var_new:0.411
+Time elapsed: 54 seconds	 Total time elapsed: 22734 seconds
+batch i:400, episode_len:9
+kl:0.01669,lr_multiplier:0.132,loss:3.229229211807251,entropy:2.6293416023254395,explained_var_old:0.357,explained_var_new:0.430
+Time elapsed: 538 seconds	 Total time elapsed: 23273 seconds
+batch i:401, episode_len:13
+kl:0.01007,lr_multiplier:0.132,loss:3.271425247192383,entropy:2.605658769607544,explained_var_old:0.357,explained_var_new:0.430
+Time elapsed: 45 seconds	 Total time elapsed: 23318 seconds
+batch i:402, episode_len:21
+kl:0.01389,lr_multiplier:0.132,loss:3.254084348678589,entropy:2.6114535331726074,explained_var_old:0.345,explained_var_new:0.454
+Time elapsed: 55 seconds	 Total time elapsed: 23373 seconds
+batch i:403, episode_len:29
+kl:0.02262,lr_multiplier:0.132,loss:3.2279012203216553,entropy:2.639207363128662,explained_var_old:0.348,explained_var_new:0.470
+Time elapsed: 66 seconds	 Total time elapsed: 23439 seconds
+batch i:404, episode_len:21
+kl:0.03019,lr_multiplier:0.132,loss:3.1621978282928467,entropy:2.591320514678955,explained_var_old:0.418,explained_var_new:0.481
+Time elapsed: 54 seconds	 Total time elapsed: 23493 seconds
+batch i:405, episode_len:18
+kl:0.02535,lr_multiplier:0.132,loss:3.177889585494995,entropy:2.6373019218444824,explained_var_old:0.425,explained_var_new:0.505
+Time elapsed: 51 seconds	 Total time elapsed: 23545 seconds
+batch i:406, episode_len:16
+kl:0.02007,lr_multiplier:0.132,loss:3.2238895893096924,entropy:2.6519834995269775,explained_var_old:0.368,explained_var_new:0.454
+Time elapsed: 47 seconds	 Total time elapsed: 23592 seconds
+batch i:407, episode_len:30
+kl:0.01087,lr_multiplier:0.132,loss:3.1490674018859863,entropy:2.5996932983398438,explained_var_old:0.416,explained_var_new:0.491
+Time elapsed: 70 seconds	 Total time elapsed: 23662 seconds
+batch i:408, episode_len:23
+kl:0.01254,lr_multiplier:0.132,loss:3.1935620307922363,entropy:2.5979437828063965,explained_var_old:0.366,explained_var_new:0.453
+Time elapsed: 57 seconds	 Total time elapsed: 23718 seconds
+batch i:409, episode_len:22
+kl:0.01611,lr_multiplier:0.132,loss:3.1811487674713135,entropy:2.597585439682007,explained_var_old:0.375,explained_var_new:0.485
+Time elapsed: 56 seconds	 Total time elapsed: 23775 seconds
+batch i:410, episode_len:14
+kl:0.01530,lr_multiplier:0.132,loss:3.1478846073150635,entropy:2.5566039085388184,explained_var_old:0.390,explained_var_new:0.484
+Time elapsed: 45 seconds	 Total time elapsed: 23820 seconds
+batch i:411, episode_len:12
+kl:0.01384,lr_multiplier:0.132,loss:3.1314220428466797,entropy:2.518169403076172,explained_var_old:0.396,explained_var_new:0.479
+Time elapsed: 41 seconds	 Total time elapsed: 23861 seconds
+batch i:412, episode_len:18
+kl:0.01558,lr_multiplier:0.132,loss:3.183060646057129,entropy:2.5466580390930176,explained_var_old:0.356,explained_var_new:0.446
+Time elapsed: 50 seconds	 Total time elapsed: 23911 seconds
+batch i:413, episode_len:38
+kl:0.00933,lr_multiplier:0.198,loss:3.153347969055176,entropy:2.5700409412384033,explained_var_old:0.390,explained_var_new:0.474
+Time elapsed: 82 seconds	 Total time elapsed: 23993 seconds
+batch i:414, episode_len:25
+kl:0.01882,lr_multiplier:0.198,loss:3.116885185241699,entropy:2.587728977203369,explained_var_old:0.408,explained_var_new:0.513
+Time elapsed: 62 seconds	 Total time elapsed: 24054 seconds
+batch i:415, episode_len:16
+kl:0.03082,lr_multiplier:0.198,loss:3.18448805809021,entropy:2.567680835723877,explained_var_old:0.365,explained_var_new:0.448
+Time elapsed: 49 seconds	 Total time elapsed: 24103 seconds
+batch i:416, episode_len:19
+kl:0.03237,lr_multiplier:0.198,loss:3.1638052463531494,entropy:2.5224123001098633,explained_var_old:0.332,explained_var_new:0.458
+Time elapsed: 53 seconds	 Total time elapsed: 24156 seconds
+batch i:417, episode_len:15
+kl:0.02351,lr_multiplier:0.198,loss:3.160392999649048,entropy:2.630666494369507,explained_var_old:0.380,explained_var_new:0.487
+Time elapsed: 46 seconds	 Total time elapsed: 24202 seconds
+batch i:418, episode_len:37
+kl:0.01098,lr_multiplier:0.198,loss:3.21356201171875,entropy:2.5850400924682617,explained_var_old:0.327,explained_var_new:0.449
+Time elapsed: 83 seconds	 Total time elapsed: 24285 seconds
+batch i:419, episode_len:16
+kl:0.01948,lr_multiplier:0.198,loss:3.24519681930542,entropy:2.606025457382202,explained_var_old:0.322,explained_var_new:0.453
+Time elapsed: 48 seconds	 Total time elapsed: 24332 seconds
+batch i:420, episode_len:9
+kl:0.03312,lr_multiplier:0.198,loss:3.2984137535095215,entropy:2.639984130859375,explained_var_old:0.283,explained_var_new:0.404
+Time elapsed: 37 seconds	 Total time elapsed: 24369 seconds
+batch i:421, episode_len:13
+kl:0.04759,lr_multiplier:0.132,loss:3.1876041889190674,entropy:2.6045050621032715,explained_var_old:0.381,explained_var_new:0.489
+Time elapsed: 42 seconds	 Total time elapsed: 24411 seconds
+batch i:422, episode_len:12
+kl:0.02805,lr_multiplier:0.132,loss:3.1587908267974854,entropy:2.570600986480713,explained_var_old:0.415,explained_var_new:0.509
+Time elapsed: 41 seconds	 Total time elapsed: 24452 seconds
+batch i:423, episode_len:11
+kl:0.02240,lr_multiplier:0.132,loss:3.0842409133911133,entropy:2.5305309295654297,explained_var_old:0.406,explained_var_new:0.484
+Time elapsed: 40 seconds	 Total time elapsed: 24492 seconds
+batch i:424, episode_len:11
+kl:0.00805,lr_multiplier:0.198,loss:3.149773359298706,entropy:2.579195976257324,explained_var_old:0.398,explained_var_new:0.470
+Time elapsed: 40 seconds	 Total time elapsed: 24532 seconds
+batch i:425, episode_len:9
+kl:0.02047,lr_multiplier:0.198,loss:3.1207962036132812,entropy:2.5741000175476074,explained_var_old:0.421,explained_var_new:0.515
+Time elapsed: 38 seconds	 Total time elapsed: 24570 seconds
+batch i:426, episode_len:12
+kl:0.01526,lr_multiplier:0.198,loss:3.090242862701416,entropy:2.5230560302734375,explained_var_old:0.391,explained_var_new:0.498
+Time elapsed: 42 seconds	 Total time elapsed: 24611 seconds
+batch i:427, episode_len:20
+kl:0.02102,lr_multiplier:0.198,loss:3.144066572189331,entropy:2.563772201538086,explained_var_old:0.402,explained_var_new:0.516
+Time elapsed: 54 seconds	 Total time elapsed: 24665 seconds
+batch i:428, episode_len:14
+kl:0.01673,lr_multiplier:0.198,loss:3.1703925132751465,entropy:2.610682487487793,explained_var_old:0.376,explained_var_new:0.478
+Time elapsed: 44 seconds	 Total time elapsed: 24709 seconds
+batch i:429, episode_len:14
+kl:0.03313,lr_multiplier:0.198,loss:3.1377546787261963,entropy:2.6204886436462402,explained_var_old:0.398,explained_var_new:0.514
+Time elapsed: 44 seconds	 Total time elapsed: 24753 seconds
+batch i:430, episode_len:15
+kl:0.03917,lr_multiplier:0.198,loss:3.170586109161377,entropy:2.5424885749816895,explained_var_old:0.374,explained_var_new:0.466
+Time elapsed: 46 seconds	 Total time elapsed: 24799 seconds
+batch i:431, episode_len:28
+kl:0.04496,lr_multiplier:0.132,loss:3.178912878036499,entropy:2.595217704772949,explained_var_old:0.318,explained_var_new:0.429
+Time elapsed: 65 seconds	 Total time elapsed: 24864 seconds
+batch i:432, episode_len:14
+kl:0.02547,lr_multiplier:0.132,loss:3.0863847732543945,entropy:2.5675222873687744,explained_var_old:0.416,explained_var_new:0.474
+Time elapsed: 43 seconds	 Total time elapsed: 24907 seconds
+batch i:433, episode_len:21
+kl:0.01198,lr_multiplier:0.132,loss:3.190661668777466,entropy:2.556006908416748,explained_var_old:0.384,explained_var_new:0.457
+Time elapsed: 56 seconds	 Total time elapsed: 24963 seconds
+batch i:434, episode_len:19
+kl:0.01231,lr_multiplier:0.132,loss:3.0581955909729004,entropy:2.5253498554229736,explained_var_old:0.436,explained_var_new:0.529
+Time elapsed: 52 seconds	 Total time elapsed: 25016 seconds
+batch i:435, episode_len:15
+kl:0.01457,lr_multiplier:0.132,loss:3.1713852882385254,entropy:2.528449058532715,explained_var_old:0.346,explained_var_new:0.404
+Time elapsed: 45 seconds	 Total time elapsed: 25061 seconds
+batch i:436, episode_len:23
+kl:0.01219,lr_multiplier:0.132,loss:3.08345365524292,entropy:2.530898332595825,explained_var_old:0.387,explained_var_new:0.474
+Time elapsed: 57 seconds	 Total time elapsed: 25117 seconds
+batch i:437, episode_len:24
+kl:0.00822,lr_multiplier:0.198,loss:3.047128915786743,entropy:2.512968063354492,explained_var_old:0.447,explained_var_new:0.538
+Time elapsed: 58 seconds	 Total time elapsed: 25176 seconds
+batch i:438, episode_len:11
+kl:0.01223,lr_multiplier:0.198,loss:3.005591869354248,entropy:2.4876203536987305,explained_var_old:0.453,explained_var_new:0.558
+Time elapsed: 40 seconds	 Total time elapsed: 25215 seconds
+batch i:439, episode_len:18
+kl:0.01669,lr_multiplier:0.198,loss:3.064026117324829,entropy:2.5362842082977295,explained_var_old:0.393,explained_var_new:0.508
+Time elapsed: 51 seconds	 Total time elapsed: 25266 seconds
+batch i:440, episode_len:12
+kl:0.02235,lr_multiplier:0.198,loss:3.007107973098755,entropy:2.479813575744629,explained_var_old:0.457,explained_var_new:0.553
+Time elapsed: 42 seconds	 Total time elapsed: 25308 seconds
+batch i:441, episode_len:17
+kl:0.02611,lr_multiplier:0.198,loss:3.0965304374694824,entropy:2.5135958194732666,explained_var_old:0.408,explained_var_new:0.521
+Time elapsed: 50 seconds	 Total time elapsed: 25358 seconds
+batch i:442, episode_len:26
+kl:0.02681,lr_multiplier:0.198,loss:3.021524667739868,entropy:2.486903190612793,explained_var_old:0.449,explained_var_new:0.533
+Time elapsed: 61 seconds	 Total time elapsed: 25418 seconds
+batch i:443, episode_len:25
+kl:0.01670,lr_multiplier:0.198,loss:3.0337467193603516,entropy:2.5715248584747314,explained_var_old:0.454,explained_var_new:0.546
+Time elapsed: 61 seconds	 Total time elapsed: 25479 seconds
+batch i:444, episode_len:22
+kl:0.02598,lr_multiplier:0.198,loss:3.0890069007873535,entropy:2.5437819957733154,explained_var_old:0.421,explained_var_new:0.521
+Time elapsed: 57 seconds	 Total time elapsed: 25536 seconds
+batch i:445, episode_len:12
+kl:0.01723,lr_multiplier:0.198,loss:3.0800609588623047,entropy:2.536829948425293,explained_var_old:0.429,explained_var_new:0.527
+Time elapsed: 41 seconds	 Total time elapsed: 25577 seconds
+batch i:446, episode_len:32
+kl:0.02106,lr_multiplier:0.198,loss:3.09515380859375,entropy:2.507000207901001,explained_var_old:0.375,explained_var_new:0.507
+Time elapsed: 72 seconds	 Total time elapsed: 25649 seconds
+batch i:447, episode_len:15
+kl:0.01532,lr_multiplier:0.198,loss:3.043355941772461,entropy:2.5358777046203613,explained_var_old:0.374,explained_var_new:0.539
+Time elapsed: 46 seconds	 Total time elapsed: 25694 seconds
+batch i:448, episode_len:21
+kl:0.01120,lr_multiplier:0.198,loss:3.0751793384552,entropy:2.520923614501953,explained_var_old:0.373,explained_var_new:0.474
+Time elapsed: 54 seconds	 Total time elapsed: 25748 seconds
+batch i:449, episode_len:17
+kl:0.01322,lr_multiplier:0.198,loss:3.078017473220825,entropy:2.4922077655792236,explained_var_old:0.367,explained_var_new:0.483
+Time elapsed: 49 seconds	 Total time elapsed: 25798 seconds
+batch i:450, episode_len:16
+kl:0.02142,lr_multiplier:0.198,loss:3.0453808307647705,entropy:2.4895730018615723,explained_var_old:0.390,explained_var_new:0.508
+Time elapsed: 48 seconds	 Total time elapsed: 25845 seconds
+batch i:451, episode_len:26
+kl:0.01767,lr_multiplier:0.198,loss:2.9882378578186035,entropy:2.4430863857269287,explained_var_old:0.396,explained_var_new:0.498
+Time elapsed: 62 seconds	 Total time elapsed: 25907 seconds
+batch i:452, episode_len:19
+kl:0.03270,lr_multiplier:0.198,loss:2.948171615600586,entropy:2.4377639293670654,explained_var_old:0.478,explained_var_new:0.556
+Time elapsed: 52 seconds	 Total time elapsed: 25960 seconds
+batch i:453, episode_len:11
+kl:0.03979,lr_multiplier:0.198,loss:3.0794260501861572,entropy:2.4891443252563477,explained_var_old:0.416,explained_var_new:0.519
+Time elapsed: 40 seconds	 Total time elapsed: 25999 seconds
+batch i:454, episode_len:12
+kl:0.04445,lr_multiplier:0.132,loss:2.992947578430176,entropy:2.435779571533203,explained_var_old:0.425,explained_var_new:0.513
+Time elapsed: 42 seconds	 Total time elapsed: 26041 seconds
+batch i:455, episode_len:20
+kl:0.02095,lr_multiplier:0.132,loss:3.033618927001953,entropy:2.506321430206299,explained_var_old:0.446,explained_var_new:0.517
+Time elapsed: 55 seconds	 Total time elapsed: 26096 seconds
+batch i:456, episode_len:17
+kl:0.01082,lr_multiplier:0.132,loss:2.9415600299835205,entropy:2.4760918617248535,explained_var_old:0.489,explained_var_new:0.563
+Time elapsed: 49 seconds	 Total time elapsed: 26145 seconds
+batch i:457, episode_len:11
+kl:0.00751,lr_multiplier:0.198,loss:2.9591667652130127,entropy:2.4741063117980957,explained_var_old:0.509,explained_var_new:0.575
+Time elapsed: 39 seconds	 Total time elapsed: 26184 seconds
+batch i:458, episode_len:11
+kl:0.01592,lr_multiplier:0.198,loss:2.9930295944213867,entropy:2.474551200866699,explained_var_old:0.467,explained_var_new:0.557
+Time elapsed: 40 seconds	 Total time elapsed: 26224 seconds
+batch i:459, episode_len:24
+kl:0.01671,lr_multiplier:0.198,loss:2.9249165058135986,entropy:2.4792611598968506,explained_var_old:0.512,explained_var_new:0.588
+Time elapsed: 61 seconds	 Total time elapsed: 26284 seconds
+batch i:460, episode_len:11
+kl:0.02166,lr_multiplier:0.198,loss:2.942709445953369,entropy:2.459475517272949,explained_var_old:0.488,explained_var_new:0.567
+Time elapsed: 39 seconds	 Total time elapsed: 26324 seconds
+batch i:461, episode_len:16
+kl:0.02707,lr_multiplier:0.198,loss:2.926544427871704,entropy:2.4355547428131104,explained_var_old:0.472,explained_var_new:0.560
+Time elapsed: 47 seconds	 Total time elapsed: 26371 seconds
+batch i:462, episode_len:11
+kl:0.02188,lr_multiplier:0.198,loss:2.925915479660034,entropy:2.477792501449585,explained_var_old:0.491,explained_var_new:0.605
+Time elapsed: 40 seconds	 Total time elapsed: 26411 seconds
+batch i:463, episode_len:10
+kl:0.02116,lr_multiplier:0.198,loss:2.8347742557525635,entropy:2.417771816253662,explained_var_old:0.572,explained_var_new:0.642
+Time elapsed: 38 seconds	 Total time elapsed: 26449 seconds
+batch i:464, episode_len:11
+kl:0.01391,lr_multiplier:0.198,loss:2.9495062828063965,entropy:2.413390636444092,explained_var_old:0.485,explained_var_new:0.571
+Time elapsed: 39 seconds	 Total time elapsed: 26488 seconds
+batch i:465, episode_len:29
+kl:0.02488,lr_multiplier:0.198,loss:2.9586968421936035,entropy:2.475029945373535,explained_var_old:0.469,explained_var_new:0.552
+Time elapsed: 65 seconds	 Total time elapsed: 26553 seconds
+batch i:466, episode_len:14
+kl:0.02293,lr_multiplier:0.198,loss:2.9209725856781006,entropy:2.4556870460510254,explained_var_old:0.484,explained_var_new:0.573
+Time elapsed: 45 seconds	 Total time elapsed: 26598 seconds
+batch i:467, episode_len:21
+kl:0.01730,lr_multiplier:0.198,loss:2.9860317707061768,entropy:2.409097671508789,explained_var_old:0.428,explained_var_new:0.517
+Time elapsed: 54 seconds	 Total time elapsed: 26652 seconds
+batch i:468, episode_len:33
+kl:0.01664,lr_multiplier:0.198,loss:2.886573314666748,entropy:2.3516252040863037,explained_var_old:0.451,explained_var_new:0.542
+Time elapsed: 72 seconds	 Total time elapsed: 26724 seconds
+batch i:469, episode_len:13
+kl:0.01671,lr_multiplier:0.198,loss:3.0294454097747803,entropy:2.4349069595336914,explained_var_old:0.387,explained_var_new:0.478
+Time elapsed: 43 seconds	 Total time elapsed: 26768 seconds
+batch i:470, episode_len:12
+kl:0.01687,lr_multiplier:0.198,loss:2.9228320121765137,entropy:2.43526291847229,explained_var_old:0.452,explained_var_new:0.539
+Time elapsed: 41 seconds	 Total time elapsed: 26809 seconds
+batch i:471, episode_len:11
+kl:0.01665,lr_multiplier:0.198,loss:2.857048988342285,entropy:2.39955472946167,explained_var_old:0.478,explained_var_new:0.562
+Time elapsed: 39 seconds	 Total time elapsed: 26847 seconds
+batch i:472, episode_len:38
+kl:0.02073,lr_multiplier:0.198,loss:2.92303204536438,entropy:2.3329193592071533,explained_var_old:0.402,explained_var_new:0.506
+Time elapsed: 80 seconds	 Total time elapsed: 26928 seconds
+batch i:473, episode_len:13
+kl:0.00823,lr_multiplier:0.296,loss:2.906294584274292,entropy:2.3166322708129883,explained_var_old:0.493,explained_var_new:0.567
+Time elapsed: 42 seconds	 Total time elapsed: 26970 seconds
+batch i:474, episode_len:17
+kl:0.02634,lr_multiplier:0.296,loss:2.868695020675659,entropy:2.3508927822113037,explained_var_old:0.418,explained_var_new:0.537
+Time elapsed: 50 seconds	 Total time elapsed: 27020 seconds
+batch i:475, episode_len:16
+kl:0.03930,lr_multiplier:0.296,loss:2.8720502853393555,entropy:2.389676094055176,explained_var_old:0.430,explained_var_new:0.574
+Time elapsed: 47 seconds	 Total time elapsed: 27067 seconds
+batch i:476, episode_len:11
+kl:0.04202,lr_multiplier:0.198,loss:2.902803421020508,entropy:2.454017162322998,explained_var_old:0.443,explained_var_new:0.563
+Time elapsed: 39 seconds	 Total time elapsed: 27106 seconds
+batch i:477, episode_len:27
+kl:0.02684,lr_multiplier:0.198,loss:2.877105712890625,entropy:2.465064287185669,explained_var_old:0.549,explained_var_new:0.617
+Time elapsed: 63 seconds	 Total time elapsed: 27169 seconds
+batch i:478, episode_len:15
+kl:0.02638,lr_multiplier:0.198,loss:2.921424388885498,entropy:2.4362878799438477,explained_var_old:0.460,explained_var_new:0.550
+Time elapsed: 45 seconds	 Total time elapsed: 27214 seconds
+batch i:479, episode_len:16
+kl:0.02564,lr_multiplier:0.198,loss:2.919577121734619,entropy:2.373699188232422,explained_var_old:0.428,explained_var_new:0.534
+Time elapsed: 47 seconds	 Total time elapsed: 27261 seconds
+batch i:480, episode_len:19
+kl:0.01777,lr_multiplier:0.198,loss:2.876235246658325,entropy:2.374424934387207,explained_var_old:0.450,explained_var_new:0.531
+Time elapsed: 51 seconds	 Total time elapsed: 27312 seconds
+batch i:481, episode_len:19
+kl:0.01447,lr_multiplier:0.198,loss:2.9426109790802,entropy:2.401235818862915,explained_var_old:0.421,explained_var_new:0.521
+Time elapsed: 53 seconds	 Total time elapsed: 27366 seconds
+batch i:482, episode_len:27
+kl:0.02279,lr_multiplier:0.198,loss:2.844059944152832,entropy:2.3221657276153564,explained_var_old:0.514,explained_var_new:0.577
+Time elapsed: 62 seconds	 Total time elapsed: 27427 seconds
+batch i:483, episode_len:19
+kl:0.03238,lr_multiplier:0.198,loss:2.8165459632873535,entropy:2.368116855621338,explained_var_old:0.516,explained_var_new:0.601
+Time elapsed: 53 seconds	 Total time elapsed: 27480 seconds
+batch i:484, episode_len:26
+kl:0.02697,lr_multiplier:0.198,loss:2.8516125679016113,entropy:2.337486982345581,explained_var_old:0.466,explained_var_new:0.552
+Time elapsed: 62 seconds	 Total time elapsed: 27543 seconds
+batch i:485, episode_len:12
+kl:0.01558,lr_multiplier:0.198,loss:2.8837971687316895,entropy:2.416625499725342,explained_var_old:0.491,explained_var_new:0.572
+Time elapsed: 42 seconds	 Total time elapsed: 27584 seconds
+batch i:486, episode_len:17
+kl:0.01408,lr_multiplier:0.198,loss:2.8236799240112305,entropy:2.3918261528015137,explained_var_old:0.492,explained_var_new:0.596
+Time elapsed: 49 seconds	 Total time elapsed: 27634 seconds
+batch i:487, episode_len:9
+kl:0.01375,lr_multiplier:0.198,loss:2.9025862216949463,entropy:2.3936429023742676,explained_var_old:0.482,explained_var_new:0.576
+Time elapsed: 38 seconds	 Total time elapsed: 27671 seconds
+batch i:488, episode_len:17
+kl:0.01609,lr_multiplier:0.198,loss:2.937382936477661,entropy:2.3856968879699707,explained_var_old:0.437,explained_var_new:0.525
+Time elapsed: 49 seconds	 Total time elapsed: 27720 seconds
+batch i:489, episode_len:25
+kl:0.02096,lr_multiplier:0.198,loss:2.8905415534973145,entropy:2.370150089263916,explained_var_old:0.452,explained_var_new:0.540
+Time elapsed: 61 seconds	 Total time elapsed: 27781 seconds
+batch i:490, episode_len:15
+kl:0.01893,lr_multiplier:0.198,loss:2.783723831176758,entropy:2.387507438659668,explained_var_old:0.552,explained_var_new:0.625
+Time elapsed: 45 seconds	 Total time elapsed: 27826 seconds
+batch i:491, episode_len:37
+kl:0.02011,lr_multiplier:0.198,loss:2.9679267406463623,entropy:2.3688197135925293,explained_var_old:0.427,explained_var_new:0.515
+Time elapsed: 80 seconds	 Total time elapsed: 27906 seconds
+batch i:492, episode_len:14
+kl:0.01706,lr_multiplier:0.198,loss:2.85124135017395,entropy:2.2925024032592773,explained_var_old:0.422,explained_var_new:0.515
+Time elapsed: 44 seconds	 Total time elapsed: 27950 seconds
+batch i:493, episode_len:12
+kl:0.02507,lr_multiplier:0.198,loss:2.8916356563568115,entropy:2.3909850120544434,explained_var_old:0.496,explained_var_new:0.583
+Time elapsed: 42 seconds	 Total time elapsed: 27992 seconds
+batch i:494, episode_len:13
+kl:0.01655,lr_multiplier:0.198,loss:2.812781572341919,entropy:2.3744149208068848,explained_var_old:0.445,explained_var_new:0.536
+Time elapsed: 42 seconds	 Total time elapsed: 28035 seconds
+batch i:495, episode_len:11
+kl:0.02154,lr_multiplier:0.198,loss:2.8587377071380615,entropy:2.3450241088867188,explained_var_old:0.448,explained_var_new:0.547
+Time elapsed: 40 seconds	 Total time elapsed: 28075 seconds
+batch i:496, episode_len:14
+kl:0.01977,lr_multiplier:0.198,loss:2.764061450958252,entropy:2.341421604156494,explained_var_old:0.530,explained_var_new:0.639
+Time elapsed: 44 seconds	 Total time elapsed: 28119 seconds
+batch i:497, episode_len:13
+kl:0.00981,lr_multiplier:0.296,loss:2.898700714111328,entropy:2.413266658782959,explained_var_old:0.508,explained_var_new:0.581
+Time elapsed: 42 seconds	 Total time elapsed: 28161 seconds
+batch i:498, episode_len:16
+kl:0.02142,lr_multiplier:0.296,loss:2.7553486824035645,entropy:2.316732406616211,explained_var_old:0.492,explained_var_new:0.604
+Time elapsed: 48 seconds	 Total time elapsed: 28209 seconds
+batch i:499, episode_len:9
+kl:0.02581,lr_multiplier:0.296,loss:2.7714803218841553,entropy:2.355348587036133,explained_var_old:0.532,explained_var_new:0.640
+Time elapsed: 37 seconds	 Total time elapsed: 28246 seconds
+batch i:500, episode_len:13
+kl:0.02952,lr_multiplier:0.296,loss:2.7541146278381348,entropy:2.262476682662964,explained_var_old:0.510,explained_var_new:0.614
+Time elapsed: 44 seconds	 Total time elapsed: 28290 seconds
+batch i:501, episode_len:12
+kl:0.02800,lr_multiplier:0.296,loss:2.9160828590393066,entropy:2.377028465270996,explained_var_old:0.427,explained_var_new:0.550
+Time elapsed: 41 seconds	 Total time elapsed: 28331 seconds
+batch i:502, episode_len:15
+kl:0.02601,lr_multiplier:0.296,loss:2.8123245239257812,entropy:2.3672919273376465,explained_var_old:0.503,explained_var_new:0.617
+Time elapsed: 47 seconds	 Total time elapsed: 28378 seconds
+batch i:503, episode_len:26
+kl:0.02995,lr_multiplier:0.296,loss:2.836003303527832,entropy:2.377192497253418,explained_var_old:0.478,explained_var_new:0.587
+Time elapsed: 63 seconds	 Total time elapsed: 28441 seconds
+batch i:504, episode_len:11
+kl:0.03181,lr_multiplier:0.296,loss:2.8464300632476807,entropy:2.2991557121276855,explained_var_old:0.451,explained_var_new:0.551
+Time elapsed: 40 seconds	 Total time elapsed: 28481 seconds
+batch i:505, episode_len:10
+kl:0.02662,lr_multiplier:0.296,loss:2.900001287460327,entropy:2.316054344177246,explained_var_old:0.355,explained_var_new:0.478
+Time elapsed: 38 seconds	 Total time elapsed: 28519 seconds
+batch i:506, episode_len:9
+kl:0.03731,lr_multiplier:0.296,loss:2.8035755157470703,entropy:2.364377975463867,explained_var_old:0.486,explained_var_new:0.604
+Time elapsed: 37 seconds	 Total time elapsed: 28557 seconds
+batch i:507, episode_len:25
+kl:0.02078,lr_multiplier:0.296,loss:2.866091012954712,entropy:2.4095561504364014,explained_var_old:0.420,explained_var_new:0.539
+Time elapsed: 65 seconds	 Total time elapsed: 28621 seconds
+batch i:508, episode_len:13
+kl:0.02860,lr_multiplier:0.296,loss:2.76155948638916,entropy:2.298569917678833,explained_var_old:0.479,explained_var_new:0.577
+Time elapsed: 44 seconds	 Total time elapsed: 28665 seconds
+batch i:509, episode_len:28
+kl:0.02971,lr_multiplier:0.296,loss:2.77787709236145,entropy:2.308864116668701,explained_var_old:0.490,explained_var_new:0.600
+Time elapsed: 68 seconds	 Total time elapsed: 28732 seconds
+batch i:510, episode_len:15
+kl:0.03327,lr_multiplier:0.296,loss:2.792809247970581,entropy:2.2980051040649414,explained_var_old:0.446,explained_var_new:0.570
+Time elapsed: 47 seconds	 Total time elapsed: 28779 seconds
+batch i:511, episode_len:11
+kl:0.03760,lr_multiplier:0.296,loss:2.7525508403778076,entropy:2.2656075954437256,explained_var_old:0.488,explained_var_new:0.607
+Time elapsed: 40 seconds	 Total time elapsed: 28820 seconds
+batch i:512, episode_len:14
+kl:0.02639,lr_multiplier:0.296,loss:2.735198736190796,entropy:2.2850310802459717,explained_var_old:0.469,explained_var_new:0.591
+Time elapsed: 44 seconds	 Total time elapsed: 28864 seconds
+batch i:513, episode_len:15
+kl:0.02953,lr_multiplier:0.296,loss:2.7823259830474854,entropy:2.2898736000061035,explained_var_old:0.495,explained_var_new:0.594
+Time elapsed: 46 seconds	 Total time elapsed: 28910 seconds
+batch i:514, episode_len:20
+kl:0.02062,lr_multiplier:0.296,loss:2.8115310668945312,entropy:2.3353092670440674,explained_var_old:0.475,explained_var_new:0.585
+Time elapsed: 55 seconds	 Total time elapsed: 28965 seconds
+batch i:515, episode_len:27
+kl:0.02728,lr_multiplier:0.296,loss:2.8438119888305664,entropy:2.3534817695617676,explained_var_old:0.478,explained_var_new:0.576
+Time elapsed: 65 seconds	 Total time elapsed: 29030 seconds
+batch i:516, episode_len:13
+kl:0.01933,lr_multiplier:0.296,loss:2.785604953765869,entropy:2.3578805923461914,explained_var_old:0.481,explained_var_new:0.591
+Time elapsed: 42 seconds	 Total time elapsed: 29072 seconds
+batch i:517, episode_len:19
+kl:0.03311,lr_multiplier:0.296,loss:2.7648112773895264,entropy:2.323885440826416,explained_var_old:0.527,explained_var_new:0.603
+Time elapsed: 53 seconds	 Total time elapsed: 29125 seconds
+batch i:518, episode_len:14
+kl:0.02335,lr_multiplier:0.296,loss:2.7433969974517822,entropy:2.311983108520508,explained_var_old:0.504,explained_var_new:0.631
+Time elapsed: 44 seconds	 Total time elapsed: 29169 seconds
+batch i:519, episode_len:12
+kl:0.03710,lr_multiplier:0.296,loss:2.710766315460205,entropy:2.249102830886841,explained_var_old:0.531,explained_var_new:0.643
+Time elapsed: 42 seconds	 Total time elapsed: 29211 seconds
+batch i:520, episode_len:26
+kl:0.03093,lr_multiplier:0.296,loss:2.732611656188965,entropy:2.2602391242980957,explained_var_old:0.473,explained_var_new:0.576
+Time elapsed: 61 seconds	 Total time elapsed: 29272 seconds
+batch i:521, episode_len:10
+kl:0.03746,lr_multiplier:0.296,loss:2.727483034133911,entropy:2.2382664680480957,explained_var_old:0.517,explained_var_new:0.605
+Time elapsed: 39 seconds	 Total time elapsed: 29311 seconds
+batch i:522, episode_len:10
+kl:0.02547,lr_multiplier:0.296,loss:2.6847589015960693,entropy:2.23132061958313,explained_var_old:0.509,explained_var_new:0.595
+Time elapsed: 39 seconds	 Total time elapsed: 29350 seconds
+batch i:523, episode_len:9
+kl:0.02557,lr_multiplier:0.296,loss:2.777209758758545,entropy:2.2333712577819824,explained_var_old:0.492,explained_var_new:0.580
+Time elapsed: 37 seconds	 Total time elapsed: 29387 seconds
+batch i:524, episode_len:12
+kl:0.02440,lr_multiplier:0.296,loss:2.689080238342285,entropy:2.3239521980285645,explained_var_old:0.560,explained_var_new:0.657
+Time elapsed: 42 seconds	 Total time elapsed: 29428 seconds
+batch i:525, episode_len:9
+kl:0.03056,lr_multiplier:0.296,loss:2.6439661979675293,entropy:2.2321553230285645,explained_var_old:0.566,explained_var_new:0.677
+Time elapsed: 36 seconds	 Total time elapsed: 29465 seconds
+batch i:526, episode_len:11
+kl:0.02805,lr_multiplier:0.296,loss:2.732224702835083,entropy:2.3088583946228027,explained_var_old:0.507,explained_var_new:0.588
+Time elapsed: 41 seconds	 Total time elapsed: 29505 seconds
+batch i:527, episode_len:20
+kl:0.02722,lr_multiplier:0.296,loss:2.7095088958740234,entropy:2.2303032875061035,explained_var_old:0.547,explained_var_new:0.624
+Time elapsed: 53 seconds	 Total time elapsed: 29558 seconds
+batch i:528, episode_len:20
+kl:0.02464,lr_multiplier:0.296,loss:2.6431491374969482,entropy:2.252498149871826,explained_var_old:0.548,explained_var_new:0.642
+Time elapsed: 52 seconds	 Total time elapsed: 29610 seconds
+batch i:529, episode_len:10
+kl:0.02171,lr_multiplier:0.296,loss:2.5731160640716553,entropy:2.2314538955688477,explained_var_old:0.609,explained_var_new:0.689
+Time elapsed: 39 seconds	 Total time elapsed: 29649 seconds
+batch i:530, episode_len:13
+kl:0.02780,lr_multiplier:0.296,loss:2.6216068267822266,entropy:2.1872708797454834,explained_var_old:0.547,explained_var_new:0.626
+Time elapsed: 43 seconds	 Total time elapsed: 29692 seconds
+batch i:531, episode_len:26
+kl:0.03025,lr_multiplier:0.296,loss:2.6569204330444336,entropy:2.296074867248535,explained_var_old:0.546,explained_var_new:0.629
+Time elapsed: 64 seconds	 Total time elapsed: 29756 seconds
+batch i:532, episode_len:12
+kl:0.03867,lr_multiplier:0.296,loss:2.6779842376708984,entropy:2.240163803100586,explained_var_old:0.581,explained_var_new:0.647
+Time elapsed: 42 seconds	 Total time elapsed: 29798 seconds
+batch i:533, episode_len:34
+kl:0.03747,lr_multiplier:0.296,loss:2.685136079788208,entropy:2.2839930057525635,explained_var_old:0.547,explained_var_new:0.638
+Time elapsed: 77 seconds	 Total time elapsed: 29875 seconds
+batch i:534, episode_len:11
+kl:0.03737,lr_multiplier:0.296,loss:2.694528818130493,entropy:2.251302719116211,explained_var_old:0.550,explained_var_new:0.631
+Time elapsed: 40 seconds	 Total time elapsed: 29915 seconds
+batch i:535, episode_len:21
+kl:0.03176,lr_multiplier:0.296,loss:2.659191370010376,entropy:2.2939722537994385,explained_var_old:0.563,explained_var_new:0.637
+Time elapsed: 55 seconds	 Total time elapsed: 29969 seconds
+batch i:536, episode_len:23
+kl:0.02798,lr_multiplier:0.296,loss:2.685321807861328,entropy:2.225471019744873,explained_var_old:0.503,explained_var_new:0.612
+Time elapsed: 58 seconds	 Total time elapsed: 30028 seconds
+batch i:537, episode_len:12
+kl:0.03164,lr_multiplier:0.296,loss:2.6701998710632324,entropy:2.1529428958892822,explained_var_old:0.472,explained_var_new:0.571
+Time elapsed: 41 seconds	 Total time elapsed: 30069 seconds
+batch i:538, episode_len:23
+kl:0.02424,lr_multiplier:0.296,loss:2.627556562423706,entropy:2.144685745239258,explained_var_old:0.488,explained_var_new:0.593
+Time elapsed: 58 seconds	 Total time elapsed: 30127 seconds
+batch i:539, episode_len:24
+kl:0.02579,lr_multiplier:0.296,loss:2.6699752807617188,entropy:2.2991819381713867,explained_var_old:0.545,explained_var_new:0.629
+Time elapsed: 62 seconds	 Total time elapsed: 30188 seconds
+batch i:540, episode_len:23
+kl:0.03424,lr_multiplier:0.296,loss:2.654726028442383,entropy:2.254523277282715,explained_var_old:0.516,explained_var_new:0.613
+Time elapsed: 60 seconds	 Total time elapsed: 30248 seconds
+batch i:541, episode_len:38
+kl:0.03880,lr_multiplier:0.296,loss:2.7187962532043457,entropy:2.3164539337158203,explained_var_old:0.520,explained_var_new:0.613
+Time elapsed: 81 seconds	 Total time elapsed: 30329 seconds
+batch i:542, episode_len:24
+kl:0.03827,lr_multiplier:0.296,loss:2.6589574813842773,entropy:2.213827610015869,explained_var_old:0.576,explained_var_new:0.670
+Time elapsed: 60 seconds	 Total time elapsed: 30388 seconds
+batch i:543, episode_len:14
+kl:0.03226,lr_multiplier:0.296,loss:2.6034820079803467,entropy:2.178241491317749,explained_var_old:0.562,explained_var_new:0.658
+Time elapsed: 44 seconds	 Total time elapsed: 30433 seconds
+batch i:544, episode_len:12
+kl:0.03959,lr_multiplier:0.296,loss:2.597815990447998,entropy:2.2430782318115234,explained_var_old:0.559,explained_var_new:0.667
+Time elapsed: 43 seconds	 Total time elapsed: 30476 seconds
+batch i:545, episode_len:23
+kl:0.04534,lr_multiplier:0.198,loss:2.598499298095703,entropy:2.1719346046447754,explained_var_old:0.535,explained_var_new:0.603
+Time elapsed: 59 seconds	 Total time elapsed: 30535 seconds
+batch i:546, episode_len:16
+kl:0.01576,lr_multiplier:0.198,loss:2.5972886085510254,entropy:2.2142181396484375,explained_var_old:0.620,explained_var_new:0.682
+Time elapsed: 48 seconds	 Total time elapsed: 30583 seconds
+batch i:547, episode_len:24
+kl:0.01749,lr_multiplier:0.198,loss:2.688612461090088,entropy:2.295327663421631,explained_var_old:0.591,explained_var_new:0.654
+Time elapsed: 58 seconds	 Total time elapsed: 30641 seconds
+batch i:548, episode_len:11
+kl:0.01263,lr_multiplier:0.198,loss:2.5922629833221436,entropy:2.215712308883667,explained_var_old:0.634,explained_var_new:0.688
+Time elapsed: 40 seconds	 Total time elapsed: 30681 seconds
+batch i:549, episode_len:20
+kl:0.01028,lr_multiplier:0.198,loss:2.6188509464263916,entropy:2.1977427005767822,explained_var_old:0.637,explained_var_new:0.690
+Time elapsed: 52 seconds	 Total time elapsed: 30733 seconds
+batch i:550, episode_len:30
+kl:0.01303,lr_multiplier:0.198,loss:2.688878059387207,entropy:2.2330634593963623,explained_var_old:0.477,explained_var_new:0.574
+Time elapsed: 68 seconds	 Total time elapsed: 30801 seconds
+batch i:551, episode_len:14
+kl:0.01347,lr_multiplier:0.198,loss:2.55826473236084,entropy:2.2145068645477295,explained_var_old:0.596,explained_var_new:0.674
+Time elapsed: 45 seconds	 Total time elapsed: 30846 seconds
+batch i:552, episode_len:12
+kl:0.02463,lr_multiplier:0.198,loss:2.7044785022735596,entropy:2.2461400032043457,explained_var_old:0.584,explained_var_new:0.620
+Time elapsed: 42 seconds	 Total time elapsed: 30887 seconds
+batch i:553, episode_len:11
+kl:0.01982,lr_multiplier:0.198,loss:2.636600971221924,entropy:2.2171316146850586,explained_var_old:0.538,explained_var_new:0.606
+Time elapsed: 40 seconds	 Total time elapsed: 30927 seconds
+batch i:554, episode_len:11
+kl:0.01743,lr_multiplier:0.198,loss:2.657144546508789,entropy:2.170470952987671,explained_var_old:0.529,explained_var_new:0.569
+Time elapsed: 40 seconds	 Total time elapsed: 30967 seconds
+batch i:555, episode_len:17
+kl:0.01726,lr_multiplier:0.198,loss:2.5452709197998047,entropy:2.1684794425964355,explained_var_old:0.596,explained_var_new:0.661
+Time elapsed: 49 seconds	 Total time elapsed: 31016 seconds
+batch i:556, episode_len:15
+kl:0.01379,lr_multiplier:0.198,loss:2.6119472980499268,entropy:2.1511940956115723,explained_var_old:0.574,explained_var_new:0.615
+Time elapsed: 47 seconds	 Total time elapsed: 31063 seconds
+batch i:557, episode_len:15
+kl:0.01896,lr_multiplier:0.198,loss:2.5383763313293457,entropy:2.1169023513793945,explained_var_old:0.553,explained_var_new:0.619
+Time elapsed: 46 seconds	 Total time elapsed: 31109 seconds
+batch i:558, episode_len:21
+kl:0.00973,lr_multiplier:0.296,loss:2.5025556087493896,entropy:2.067192792892456,explained_var_old:0.558,explained_var_new:0.619
+Time elapsed: 55 seconds	 Total time elapsed: 31164 seconds
+batch i:559, episode_len:12
+kl:0.03114,lr_multiplier:0.296,loss:2.5881690979003906,entropy:2.1338086128234863,explained_var_old:0.558,explained_var_new:0.628
+Time elapsed: 41 seconds	 Total time elapsed: 31205 seconds
+batch i:560, episode_len:29
+kl:0.02819,lr_multiplier:0.296,loss:2.6132547855377197,entropy:2.1589488983154297,explained_var_old:0.509,explained_var_new:0.596
+Time elapsed: 68 seconds	 Total time elapsed: 31273 seconds
+batch i:561, episode_len:12
+kl:0.02108,lr_multiplier:0.296,loss:2.609517812728882,entropy:2.1215553283691406,explained_var_old:0.501,explained_var_new:0.568
+Time elapsed: 41 seconds	 Total time elapsed: 31314 seconds
+batch i:562, episode_len:18
+kl:0.03115,lr_multiplier:0.296,loss:2.7181296348571777,entropy:2.1845006942749023,explained_var_old:0.461,explained_var_new:0.536
+Time elapsed: 52 seconds	 Total time elapsed: 31366 seconds
+batch i:563, episode_len:22
+kl:0.02824,lr_multiplier:0.296,loss:2.6200382709503174,entropy:2.1283257007598877,explained_var_old:0.422,explained_var_new:0.546
+Time elapsed: 58 seconds	 Total time elapsed: 31424 seconds
+batch i:564, episode_len:10
+kl:0.02615,lr_multiplier:0.296,loss:2.6032612323760986,entropy:2.1795380115509033,explained_var_old:0.530,explained_var_new:0.605
+Time elapsed: 40 seconds	 Total time elapsed: 31464 seconds
+batch i:565, episode_len:31
+kl:0.02711,lr_multiplier:0.296,loss:2.6068875789642334,entropy:2.0929791927337646,explained_var_old:0.423,explained_var_new:0.554
+Time elapsed: 72 seconds	 Total time elapsed: 31536 seconds
+batch i:566, episode_len:20
+kl:0.03009,lr_multiplier:0.296,loss:2.7519731521606445,entropy:2.1501078605651855,explained_var_old:0.378,explained_var_new:0.473
+Time elapsed: 54 seconds	 Total time elapsed: 31590 seconds
+batch i:567, episode_len:13
+kl:0.02900,lr_multiplier:0.296,loss:2.5805742740631104,entropy:2.087859630584717,explained_var_old:0.418,explained_var_new:0.545
+Time elapsed: 43 seconds	 Total time elapsed: 31633 seconds
+batch i:568, episode_len:26
+kl:0.03135,lr_multiplier:0.296,loss:2.5315403938293457,entropy:2.0776519775390625,explained_var_old:0.458,explained_var_new:0.584
+Time elapsed: 66 seconds	 Total time elapsed: 31699 seconds
+batch i:569, episode_len:33
+kl:0.03834,lr_multiplier:0.296,loss:2.697741746902466,entropy:2.1806342601776123,explained_var_old:0.359,explained_var_new:0.520
+Time elapsed: 75 seconds	 Total time elapsed: 31774 seconds
+batch i:570, episode_len:14
+kl:0.02313,lr_multiplier:0.296,loss:2.6308469772338867,entropy:2.1646368503570557,explained_var_old:0.449,explained_var_new:0.574
+Time elapsed: 45 seconds	 Total time elapsed: 31819 seconds
+batch i:571, episode_len:9
+kl:0.04372,lr_multiplier:0.198,loss:2.601684808731079,entropy:2.114391326904297,explained_var_old:0.481,explained_var_new:0.574
+Time elapsed: 37 seconds	 Total time elapsed: 31856 seconds
+batch i:572, episode_len:16
+kl:0.02084,lr_multiplier:0.198,loss:2.5736138820648193,entropy:2.0424368381500244,explained_var_old:0.465,explained_var_new:0.547
+Time elapsed: 48 seconds	 Total time elapsed: 31904 seconds
+batch i:573, episode_len:13
+kl:0.02853,lr_multiplier:0.198,loss:2.593904733657837,entropy:2.107440710067749,explained_var_old:0.519,explained_var_new:0.591
+Time elapsed: 43 seconds	 Total time elapsed: 31947 seconds
+batch i:574, episode_len:15
+kl:0.01794,lr_multiplier:0.198,loss:2.6574950218200684,entropy:2.1734142303466797,explained_var_old:0.416,explained_var_new:0.544
+Time elapsed: 47 seconds	 Total time elapsed: 31994 seconds
+batch i:575, episode_len:9
+kl:0.01499,lr_multiplier:0.198,loss:2.535616159439087,entropy:2.1402950286865234,explained_var_old:0.506,explained_var_new:0.588
+Time elapsed: 39 seconds	 Total time elapsed: 32033 seconds
+batch i:576, episode_len:21
+kl:0.02177,lr_multiplier:0.198,loss:2.6066696643829346,entropy:2.1093738079071045,explained_var_old:0.474,explained_var_new:0.557
+Time elapsed: 58 seconds	 Total time elapsed: 32091 seconds
+batch i:577, episode_len:29
+kl:0.03787,lr_multiplier:0.198,loss:2.6286003589630127,entropy:2.071913719177246,explained_var_old:0.459,explained_var_new:0.553
+Time elapsed: 71 seconds	 Total time elapsed: 32162 seconds
+batch i:578, episode_len:10
+kl:0.02453,lr_multiplier:0.198,loss:2.468461513519287,entropy:2.000150203704834,explained_var_old:0.540,explained_var_new:0.592
+Time elapsed: 39 seconds	 Total time elapsed: 32201 seconds
+batch i:579, episode_len:30
+kl:0.01476,lr_multiplier:0.198,loss:2.5084869861602783,entropy:2.075928211212158,explained_var_old:0.473,explained_var_new:0.589
+Time elapsed: 72 seconds	 Total time elapsed: 32274 seconds
+batch i:580, episode_len:11
+kl:0.03065,lr_multiplier:0.198,loss:2.6051626205444336,entropy:2.0492796897888184,explained_var_old:0.442,explained_var_new:0.509
+Time elapsed: 41 seconds	 Total time elapsed: 32314 seconds
+batch i:581, episode_len:18
+kl:0.02885,lr_multiplier:0.198,loss:2.3968353271484375,entropy:2.0235862731933594,explained_var_old:0.592,explained_var_new:0.653
+Time elapsed: 51 seconds	 Total time elapsed: 32365 seconds
+batch i:582, episode_len:21
+kl:0.01767,lr_multiplier:0.198,loss:2.480745792388916,entropy:2.0578370094299316,explained_var_old:0.534,explained_var_new:0.597
+Time elapsed: 58 seconds	 Total time elapsed: 32423 seconds
+batch i:583, episode_len:18
+kl:0.02452,lr_multiplier:0.198,loss:2.487835168838501,entropy:1.9852197170257568,explained_var_old:0.548,explained_var_new:0.625
+Time elapsed: 53 seconds	 Total time elapsed: 32476 seconds
+batch i:584, episode_len:19
+kl:0.01681,lr_multiplier:0.198,loss:2.537003755569458,entropy:2.0565924644470215,explained_var_old:0.523,explained_var_new:0.617
+Time elapsed: 54 seconds	 Total time elapsed: 32530 seconds
+batch i:585, episode_len:9
+kl:0.02013,lr_multiplier:0.198,loss:2.57643723487854,entropy:2.1430015563964844,explained_var_old:0.485,explained_var_new:0.586
+Time elapsed: 37 seconds	 Total time elapsed: 32567 seconds
+batch i:586, episode_len:17
+kl:0.02296,lr_multiplier:0.198,loss:2.568951368331909,entropy:2.1296486854553223,explained_var_old:0.495,explained_var_new:0.555
+Time elapsed: 50 seconds	 Total time elapsed: 32617 seconds
+batch i:587, episode_len:22
+kl:0.02104,lr_multiplier:0.198,loss:2.5524632930755615,entropy:2.0403456687927246,explained_var_old:0.475,explained_var_new:0.572
+Time elapsed: 60 seconds	 Total time elapsed: 32678 seconds
+batch i:588, episode_len:23
+kl:0.01773,lr_multiplier:0.198,loss:2.4839868545532227,entropy:1.9854161739349365,explained_var_old:0.525,explained_var_new:0.604
+Time elapsed: 59 seconds	 Total time elapsed: 32737 seconds
+batch i:589, episode_len:9
+kl:0.01491,lr_multiplier:0.198,loss:2.4600565433502197,entropy:1.9889371395111084,explained_var_old:0.538,explained_var_new:0.613
+Time elapsed: 37 seconds	 Total time elapsed: 32774 seconds
+batch i:590, episode_len:13
+kl:0.02272,lr_multiplier:0.198,loss:2.5139825344085693,entropy:2.072035312652588,explained_var_old:0.529,explained_var_new:0.624
+Time elapsed: 44 seconds	 Total time elapsed: 32818 seconds
+batch i:591, episode_len:15
+kl:0.02298,lr_multiplier:0.198,loss:2.4884274005889893,entropy:2.025805950164795,explained_var_old:0.533,explained_var_new:0.625
+Time elapsed: 47 seconds	 Total time elapsed: 32865 seconds
+batch i:592, episode_len:12
+kl:0.01842,lr_multiplier:0.198,loss:2.5161068439483643,entropy:2.0246496200561523,explained_var_old:0.564,explained_var_new:0.651
+Time elapsed: 42 seconds	 Total time elapsed: 32907 seconds
+batch i:593, episode_len:17
+kl:0.02231,lr_multiplier:0.198,loss:2.380244731903076,entropy:1.9809921979904175,explained_var_old:0.560,explained_var_new:0.641
+Time elapsed: 50 seconds	 Total time elapsed: 32958 seconds
+batch i:594, episode_len:9
+kl:0.01698,lr_multiplier:0.198,loss:2.4840433597564697,entropy:1.9976727962493896,explained_var_old:0.447,explained_var_new:0.545
+Time elapsed: 38 seconds	 Total time elapsed: 32996 seconds
+batch i:595, episode_len:43
+kl:0.01610,lr_multiplier:0.198,loss:2.5400760173797607,entropy:2.0301804542541504,explained_var_old:0.457,explained_var_new:0.554
+Time elapsed: 91 seconds	 Total time elapsed: 33087 seconds
+batch i:596, episode_len:9
+kl:0.01567,lr_multiplier:0.198,loss:2.532649278640747,entropy:2.09954571723938,explained_var_old:0.523,explained_var_new:0.606
+Time elapsed: 37 seconds	 Total time elapsed: 33124 seconds
+batch i:597, episode_len:15
+kl:0.01698,lr_multiplier:0.198,loss:2.495858669281006,entropy:2.0505738258361816,explained_var_old:0.520,explained_var_new:0.590
+Time elapsed: 47 seconds	 Total time elapsed: 33171 seconds
+batch i:598, episode_len:13
+kl:0.01538,lr_multiplier:0.198,loss:2.5116639137268066,entropy:2.1250312328338623,explained_var_old:0.566,explained_var_new:0.627
+Time elapsed: 44 seconds	 Total time elapsed: 33215 seconds
+batch i:599, episode_len:19
+kl:0.01333,lr_multiplier:0.198,loss:2.473299503326416,entropy:2.093998432159424,explained_var_old:0.562,explained_var_new:0.631
+Time elapsed: 55 seconds	 Total time elapsed: 33270 seconds
+batch i:600, episode_len:23
+kl:0.01098,lr_multiplier:0.198,loss:2.524623394012451,entropy:2.0239038467407227,explained_var_old:0.509,explained_var_new:0.591
